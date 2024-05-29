@@ -1,0 +1,15 @@
+{
+  "name": "equipos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Nicolas Caceres Latorre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
