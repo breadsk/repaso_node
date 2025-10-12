@@ -5,13 +5,13 @@ const cors = require("cors");
 const puerto = 2006;
 //----------------------------------------------------
 
-const { getEquipos , getEquipoById } = require("./controllers/equipos.controllers")
+const { getRobots , getRobotById } = require("./controllers/robots.controllers")
 
 app.use(cors());
 
-app.get("/" , getEquipos )
+app.get("/" , getRobots )
 
-app.get("/:id" , getEquipoById)
+app.get("/:id" , getRobotById  )
 
 //----------------------------------------------------
 
