@@ -2,7 +2,7 @@ const robots = [
     {
         "series": 1,
         "id":0,
-        "name": "Proto Man",
+        "name": "proto man",
         "weapon":"Proto Buster",
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/5/5f/MM3ProtoMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/1/19/ProtoColor.png",
@@ -12,7 +12,7 @@ const robots = [
     {
         "series": 1,
         "id":1,
-        "name": "Mega Man",
+        "name": "mega man",
         "weapon":"Mega Buster",
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/2/26/MMLCdatamegamanMM3.png",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/b/bf/Megaman.png",
@@ -22,7 +22,7 @@ const robots = [
     {
         "series": 1,
         "id":2,
-        "name": "Roll",
+        "name": "roll",
         "weapon":"None",
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/f/fd/MM1Roll.png",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/1/15/Roll.png?20210815191147",
@@ -32,7 +32,7 @@ const robots = [
     {
         "series": 1,
         "id":3,
-        "name": "Cut Man",
+        "name": "cut man",
         "weapon":"Rolling Cutter",
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/c/c4/MM-CutMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/2/22/Cutman.png",
@@ -42,7 +42,7 @@ const robots = [
     {
         "series": 1,
         "id":4,
-        "name": "Guts Man",
+        "name": "guts man",
         "weapon":"Super Arm",
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/7/70/MM-GutsMan.jpg",        
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/6/60/Gutsman.png",
@@ -52,7 +52,7 @@ const robots = [
     {
         "series": 1,
         "id":5,
-        "name": "Ice Man",
+        "name": "ice man",
         "weapon":"Ice Slasher",
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/0/04/MM-IceMan.jpg",        
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/6/61/IceMan.png",
@@ -62,7 +62,7 @@ const robots = [
     {
         "series": 1,
         "id":6,
-        "name": "Bomb Man",
+        "name": "bomb man",
         "weapon":"Hyper Bomb",
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/b/b6/MM-BombMan.jpg",        
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/2/24/BombMan.png",
@@ -72,7 +72,7 @@ const robots = [
     {
         "series": 1,
         "id":7,
-        "name": "Fire Man",
+        "name": "fire man",
         "weapon":"Fire Storm",
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/d/d9/Original_FireMan.jpg",        
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/a/a9/FireMan.png",
@@ -82,7 +82,7 @@ const robots = [
     {
         "series": 1,
         "id":8,
-        "name": "Elec Man",
+        "name": "elec man",
         "weapon":"Thunder Beam",
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/9/91/MM-ElecMan.jpg",        
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/e/ea/ElecMan.png",
@@ -92,7 +92,7 @@ const robots = [
     {
         "series": 2,
         "id":9,
-        "name": "Metal Man",
+        "name": "metal man",
         "weapon": "Metal Blade",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/2/26/MM2MetalMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/thumb/archive/1/19/20230303182334%21MetalMan.png/120px-MetalMan.png",
@@ -102,7 +102,7 @@ const robots = [
     {
         "series": 2,
         "id":10,
-        "name": "Air Man",
+        "name": "air man",
         "weapon": "Air Blade",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/d/d0/MM2AirMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/3/30/AirMan.png",
@@ -112,7 +112,7 @@ const robots = [
     {
         "series": 2,
         "id":11,
-        "name": "Bubble Man",
+        "name": "bubble man",
         "weapon": "Bubble Lead",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/5/5a/MM2BubbleMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/0/03/BubbleMan.png",
@@ -122,7 +122,7 @@ const robots = [
     {
         "series": 2,
         "id":12,
-        "name": "Quick Man",
+        "name": "quick man",
         "weapon": "Quick Boomerang",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/9/91/MM2QuickMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/2/23/QuickMan.png",
@@ -132,7 +132,7 @@ const robots = [
     {
         "series": 2,
         "id":13,
-        "name": "Crash Man",
+        "name": "crash man",
         "weapon": "Crash Bomber",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/d/d0/MM2ClashMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/d/dc/CrashMan.png",
@@ -142,7 +142,7 @@ const robots = [
     {
         "series": 2,
         "id":14,
-        "name": "Flash Man",
+        "name": "flash man",
         "weapon": "Time Stopper",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/8/8a/MM2FlashMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/0/09/FlashMan.png",
@@ -152,7 +152,7 @@ const robots = [
     {
         "series": 2,
         "id":15,
-        "name": "Heat Man",
+        "name": "heat man",
         "weapon": "Atomic Fire",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/b/be/MM2HeatMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/1/1a/HeatMan.png",
@@ -162,7 +162,7 @@ const robots = [
     {
         "series": 2,
         "id":16,
-        "name": "Wood Man",
+        "name": "wood man",
         "weapon": "Left Shield",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/4/4f/MM2WoodMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/3/32/WoodMan.png",
@@ -172,7 +172,7 @@ const robots = [
     {
         "series": 3,
         "id":17,
-        "name": "Needle Man",
+        "name": "needle man",
         "weapon": "Needle Cannon",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/a/a3/MM3NeedleMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/7/7e/NeedleColor.png",
@@ -182,7 +182,7 @@ const robots = [
     {
         "series": 3,
         "id":18,
-        "name": "Magnet Man",
+        "name": "magnet man",
         "weapon": "Magnet Missile",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/0/0a/MM3MagnetMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/d/d3/MagnetMan.png",
@@ -192,7 +192,7 @@ const robots = [
     {
         "series": 3,
         "id":19,
-        "name": "Gemini Man",
+        "name": "gemini man",
         "weapon": "Gemini Laser",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/4/4a/MM3GeminiMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/7/78/GeminiManMegaMan3.png",
@@ -202,7 +202,7 @@ const robots = [
     {
         "series": 3,
         "id":20,
-        "name": "Hard Man",
+        "name": "hard man",
         "weapon": "Hard Knuckle",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/a/a9/MM3HardMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/8/89/HeavyMan.png",
@@ -212,7 +212,7 @@ const robots = [
     {
         "series": 3,
         "id":21,
-        "name": "Top Man",
+        "name": "top man",
         "weapon": "Top Spin",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/7/70/MM3TopMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/b/bc/TopMan.png",
@@ -222,7 +222,7 @@ const robots = [
     {
         "series": 3,
         "id":22,
-        "name": "Snake Man",
+        "name": "snake man",
         "weapon": "Search Snake",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/1/12/MM3SnakeMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/7/7b/SnakeMan.png",
@@ -232,7 +232,7 @@ const robots = [
     {
         "series": 3,
         "id":23,
-        "name": "Spark Man",
+        "name": "spark man",
         "weapon": "Spark Shork",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/e/ec/MM3SparkMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/d/d9/SparkNoTheOtherOne.png",
@@ -242,7 +242,7 @@ const robots = [
     {
         "series": 3,
         "id":24,
-        "name": "Shadow Man",
+        "name": "shadow man",
         "weapon": "Shadow Blade",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/4/41/MM3ShadowMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/5/54/ShadowMan.png",
@@ -252,7 +252,7 @@ const robots = [
     {
         "series": 4,
         "id":25,
-        "name": "Bright Man",
+        "name": "bright man",
         "weapon": "Flash Stopper",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/6/60/MM4-BrightMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/a/ac/BrightMan.png",
@@ -262,7 +262,7 @@ const robots = [
     {
         "series": 4,
         "id":26,
-        "name": "Toad Man",
+        "name": "toad man",
         "weapon": "Rain Flush",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/7/77/MM4-ToadMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/b/bf/Toadman.png",
@@ -272,7 +272,7 @@ const robots = [
     {
         "series": 4,
         "id":27,
-        "name": "Drill Man",
+        "name": "drill man",
         "weapon": "Drill Bomb",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/c/cb/MM4-DrillMan.jpg",        
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/2/25/Drillsprite.png",
@@ -282,7 +282,7 @@ const robots = [
     {
         "series": 4,
         "id":28,
-        "name": "Pharaoh Man",
+        "name": "pharaoh man",
         "weapon": "Pharaoh Shot",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/d/d4/MM4-PharaohMan.jpg",        
         "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/b/bb/Pharaohsprite.png",
@@ -292,7 +292,7 @@ const robots = [
     {
         "series": 4,
         "id":29,
-        "name": "Ring Man",
+        "name": "ring man",
         "weapon": "Ring Boomerang",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/6/6c/MM4-RingMan.jpg",        
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/b/b3/MM10WA4.png",
@@ -302,7 +302,7 @@ const robots = [
     {
         "series": 4,
         "id":30,
-        "name": "Dust Man",
+        "name": "dust man",
         "weapon": "Dust Crusher",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/e/e9/MM4-DustMan.jpg",        
         "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/4/41/Dustsprite.png",
@@ -312,7 +312,7 @@ const robots = [
     {
         "series": 4,
         "id":31,
-        "name": "Dive Man",
+        "name": "dive man",
         "weapon": "Dive Missile",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/3/3e/MM4-DiveMan.jpg",        
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/d/df/Divesprite.png",
@@ -322,7 +322,7 @@ const robots = [
     {
         "series": 4,
         "id":32,
-        "name": "Skull Man",
+        "name": "skull man",
         "weapon": "Skull Barrier",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/e/eb/MM4-SkullMan.jpg",        
         "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/e/e8/Skullsprite.png",
@@ -332,7 +332,7 @@ const robots = [
     {
         "series": 5,
         "id":33,
-        "name": "Gravity Man",
+        "name": "gravity man",
         "weapon": "Gravity Hold",
         "avatar": "https://th.bing.com/th/id/R.5f76bae9e9407baf90b81b1a7b0e5fd2?rik=uObE%2bPFKv6lzKQ&riu=http%3a%2f%2fimages.wikia.com%2fmegaman%2fimages%2f1%2f17%2fMM5-GravityMan.jpg&ehk=%2fxUDtdSftBxHx8yq8FiCtu0U4PBTktgRSqZGV%2b3oo9M%3d&risl=&pid=ImgRaw&r=0",
         "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/9/9d/Gravitysprite.png",
@@ -342,7 +342,7 @@ const robots = [
     {
         "series": 5,
         "id":34,
-        "name": "Wave Man",
+        "name": "wave man",
         "weapon": "Water Wave",
         "avatar": "https://th.bing.com/th/id/R.de67dcb54da81a71da072addeae3f9e6?rik=GdCQKCt%2fs5ZFqg&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20110413195201%2fmegaman%2fimages%2fthumb%2fc%2fc9%2fMM5-WaveMan.jpg%2f500px-MM5-WaveMan.jpg&ehk=XEnG4OcsME8CT2EHp5cyWseXIhRyga1ZqHSs0UWZzeU%3d&risl=&pid=ImgRaw&r=0",        
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/c/cc/Wavesprite.png",
@@ -352,7 +352,7 @@ const robots = [
     {
         "series": 5,
         "id":35,
-        "name": "Stone Man",
+        "name": "stone man",
         "weapon": "Power Stone",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/7/79/MM5-StoneMan.jpg",        
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/a/ab/Stonesprite.png",
@@ -362,7 +362,7 @@ const robots = [
     {
         "series": 5,
         "id":36,
-        "name": "Gyro Man",
+        "name": "gyro man",
         "weapon": "Gyro Attack",
         "avatar": "https://vignette2.wikia.nocookie.net/megaman/images/3/32/MM5-GyroMan.jpg/revision/latest?cb=20110413230520",        
         "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/c/c3/Gyrosprite.png",
@@ -372,7 +372,7 @@ const robots = [
     {
         "series": 5,
         "id":37,
-        "name": "Star Man",
+        "name": "star man",
         "weapon": "Star Crash",
         "avatar": "https://tse4.mm.bing.net/th/id/OIP.RYydP17aksDLy-Ad67btYgAAAA?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",        
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/7/70/Starsprite.png",
@@ -382,7 +382,7 @@ const robots = [
     {
         "series": 5,
         "id":38,
-        "name": "Charge Man",
+        "name": "charge man",
         "weapon": "Charge Kick",
         "avatar": "https://th.bing.com/th/id/R.6880969653e418aa693e08c27157d12c?rik=q%2fRIYQ%2bSu5ssGw&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2fmegaman%2fimages%2f7%2f75%2fMM5-ChargeMan.jpg%2frevision%2flatest%3fcb%3d20110425062042&ehk=vlzb%2bm1WiD1TtLZFfBXBE%2f7AMJoYHOJbF9QfsiJGHf4%3d&risl=&pid=ImgRaw&r=0",        
         "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/1/1a/Chargesprite.png",
@@ -392,7 +392,7 @@ const robots = [
     {
         "series": 5,
         "id":39,
-        "name": "Napalm Man",
+        "name": "napalm man",
         "weapon": "Napalm Bomb",
         "avatar": "https://tse3.mm.bing.net/th/id/OIP.ewT9xajv0V7zypgKqxqa6gHaF-?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",        
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/a/aa/MM10WA5.png",
@@ -402,7 +402,7 @@ const robots = [
     {
         "series": 5,
         "id":40,
-        "name": "Crystal Man",
+        "name": "crystal man",
         "weapon": "Napalm Bomb",
         "avatar": "https://tse4.mm.bing.net/th/id/OIP.4Ot2b-ceDrPDBtw6_fSAiAHaHd?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/c/ce/Crystalsprite.png",
@@ -412,7 +412,7 @@ const robots = [
     {
         "series": 6,
         "id":41,
-        "name": "Blizzard Man",
+        "name": "blizzard man",
         "weapon": "Blizzard Attack",
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/1/10/MM6-BlizzardMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/4/4f/BlizzardMan.png",
@@ -422,7 +422,7 @@ const robots = [
     {
         "series":6,
         "id":42,
-        "name":"Flame Man",
+        "name":"flame man",
         "weapon": "Flame Blast",
         "avatar":"https://tse4.mm.bing.net/th/id/OIP.2f50gi9oJXLBKIld5p1waAHaI5?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
         "sprite1":"https://i.ytimg.com/vi/XSByIYtxKI8/hqdefault.jpg",
@@ -432,7 +432,7 @@ const robots = [
     {
         "series":6,
         "id":43,
-        "name":"Plant Man",
+        "name":"plant man",
         "weapon": "Plant Barrier",
         "avatar":"https://th.bing.com/th/id/R.e59219b4da28d775202c1d42d4866298?rik=%2bspffjWEGuqBKQ&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2fmegaman%2fimages%2f4%2f42%2fMM6-PlantMan.jpg%2frevision%2flatest%3fcb%3d20110427032726&ehk=EVw0pqEsCMC8J1e6IbHfDwNJduqrm%2bPiBb92%2bl6BRCw%3d&risl=&pid=ImgRaw&r=0",
         "sprite1":"https://static.wikitide.net/ccbmwikiwiki/c/c6/PlantMan.png",
@@ -442,7 +442,7 @@ const robots = [
     {
         "series":6,
         "id":44,
-        "name":"Tomahawk Man",
+        "name":"tomahawk man",
         "weapon": "Silver Tomahawk",
         "avatar":"https://th.bing.com/th/id/R.b412df7913f7896621be0d139e910f2c?rik=ANNd8EKpzhQzQw&riu=http%3a%2f%2fgonintendo.com%2fsystem%2ffile_uploads%2fuploads%2f000%2f007%2f405%2foriginal%2f51f62e33a46fa6309198c7013dd055e0.png&ehk=7UN96yk1yMaFyUmKG4y5RfSK6Im68ixAaMAiEMnxfgE%3d&risl=&pid=ImgRaw&r=0",
         "sprite1":"https://static.wikitide.net/ccbmwikiwiki/a/a3/TomahawkMan.png",
@@ -452,7 +452,7 @@ const robots = [
     {
         "series":6,
         "id":45,
-        "name":"Yamato Man",
+        "name":"yamato man",
         "weapon": "Yamato Spear",
         "avatar":"https://tse2.mm.bing.net/th/id/OIP.S9zYd0PbPA-xgYXimL7WlgHaFp?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
         "sprite1":"https://static.wikitide.net/ccbmwikiwiki/c/c1/YamatoMan.png",
@@ -462,7 +462,7 @@ const robots = [
     {
         "series":6,
         "id":46,
-        "name":"Knight Man",
+        "name":"knight man",
         "weapon": "Knight Crush",
         "avatar":"https://vignette4.wikia.nocookie.net/megaman/images/7/73/MM6-KnightMan.jpg/revision/latest?cb=20110426075433",
         "sprite1":"https://static.wikitide.net/ccbmwikiwiki/5/5b/KnightMan.png",
@@ -472,7 +472,7 @@ const robots = [
     {
         "series":6,
         "id":47,
-        "name":"Centaur Man",
+        "name":"centaur man",
         "weapon": "Centaur Flash",
         "avatar":"https://tse4.mm.bing.net/th/id/OIP.t4O9d-GF9ccK_9Tl5gGnlQHaIE?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
         "sprite1":"https://static.wikitide.net/ccbmwikiwiki/0/07/CentaurMan.png",
@@ -482,7 +482,7 @@ const robots = [
     {
         "series":6,
         "id":48,
-        "name":"Wind Man",
+        "name":"wind man",
         "weapon": "Wind Storm",
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/d/d2/MM6-WindMan.jpg",
         "sprite1":"https://static.wikitide.net/ccbmwikiwiki/9/9d/WindMan.png",
