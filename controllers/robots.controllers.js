@@ -12,9 +12,7 @@ const getRobots = ( req = request , res = response )=> {
 const getRobotById = ( req = request , res = response )=> {    
     
     let id = parseInt(req.params.id);
-
-    console.log("El id es: " + JSON.stringify(req.params));
-
+    
     let robotABuscar = "";
 
     robotABuscar = robots.find(( robot )=> {
@@ -37,7 +35,35 @@ const getRobotById = ( req = request , res = response )=> {
 
 }
 
+const getRobotByName = (req = request, res = response) => {    
+    
+    let name = req.params.name;
+
+    console.log("El nombre es: " + JSON.stringify(req.params));
+
+    let robotABuscar = "";
+
+    robotABuscar = robots.find((robot) => {
+        return robot.name.toLowerCase() === name.toLowerCase();
+    });
+
+    if(robotABuscar){
+        return res.json({
+            ok: true,
+            statusCode: 200,
+            robot: robotABuscar
+        });
+    } else {
+        return res.json({
+            ok: true,
+            statusCode: 404,
+            msg: "No hay robot con ese nombre"
+        });
+    }
+};
+
 module.exports = {
     getRobots,
-    getRobotById
+    getRobotById,
+    getRobotByName
 }
