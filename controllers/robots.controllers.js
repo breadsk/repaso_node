@@ -27,7 +27,7 @@ const getRobotById = ( req = request , res = response )=> {
         });
     }else{
         return res.json({
-            ok:true,
+            ok:false,
             statusCode:404,
             msg:"No hay robot con ese id"
         });
@@ -55,7 +55,7 @@ const getRobotByName = (req = request, res = response) => {
         });
     } else {
         return res.json({
-            ok: true,
+            ok: false,
             statusCode: 404,
             msg: "No hay robot con ese nombre"
         });

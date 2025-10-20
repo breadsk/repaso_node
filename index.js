@@ -5,10 +5,14 @@ const cors = require("cors");
 const puerto = 2006;
 //----------------------------------------------------
 
-const { getRobots , getRobotById, getRobotByName } = require("./controllers/robots.controllers")
+const { 
+        getRobots , 
+        getRobotById , 
+        getRobotByName } = require("./controllers/robots.controllers")
 
 app.use(cors());
 
+//Rutas
 app.get("/" , getRobots )
 
 app.get("/:id" , getRobotById  )
