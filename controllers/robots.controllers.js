@@ -38,8 +38,8 @@ const getRobotById = ( req = request , res = response )=> {
 const getRobotByName = (req = request, res = response) => {    
     
     let name = req.params.name;
-
-    console.log("El nombre es: " + JSON.stringify(req.params));
+        
+    name = name.replace(/\+/g,' ');
 
     let robotABuscar = "";
 
