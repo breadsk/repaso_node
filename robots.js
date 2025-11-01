@@ -357,9 +357,8 @@ const robots = [
         "id":32,
         "name": "skull man",
         "weapon": "Skull Barrier",
-        //"avatar": "https://static.wikia.nocookie.net/esmegaman/images/e/eb/MM4-SkullMan.jpg",        
-        "avatar": "https://static.wikitide.net/ccbmwikiwiki/2/26/SkullMan.png",
-        "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/e/e8/Skullsprite.png",
+        "avatar": "https://static.wikia.nocookie.net/esmegaman/images/e/eb/MM4-SkullMan.jpg",        
+        "sprite1":"https://static.wikitide.net/ccbmwikiwiki/2/26/SkullMan.png",        
         "weakness": "Dust Crusher",
         "info":"Skull Man (スカルマン Sukaruman?, trad. Hombre Calavera) es un Robot Master de tipo leyenda y relato fabricado combinando las capacidades técnicas del Dr. Cossack y del Dr. Wily, y perteneciente a la serie Fourth Numbers. Es un súper robot de batalla, que posee todos los aspectos de ataque, defensa, velocidad e inteligencia. Está equipado con Skull Barrier, siendo capaz de generar un campo de fuerza especial en forma de calavera. En 'Mega Man 4', Skull Man fue fabricado para asistir al Dr. Wily en su cuarto plan de dominación mundial. En 'Mega Man III', Skull Man fue reprogramado por el Dr. Wily para proteger su guarida. En 'Mega Man's Soccer', Skull Man fue reprogramado por el Dr. Wily para arrasar con los campos de fútbol de todo el mundo. Como no le enseñaron nada más que luchar, se convirtió en un despiadado adicto a combatir, aún así valora bastante las peleas justas. Debido a su excesiva calma, a menudo llega a un punto muerto con sus oponentes durante las batallas. No le teme al trabajo duro, le gusta ver películas de terror y cualquier contenido repulsivo. No le gusta complicarse.",
         "phrase":"¡Ahora! ¡Vamos a alborotarnos!"
