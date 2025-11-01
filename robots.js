@@ -7,7 +7,8 @@ const robots = [
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/5/5f/MM3ProtoMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/1/19/ProtoColor.png",
         "weakness":"",
-        "stageImg":"",
+        "info": "Proto Man, conocido en Japón como Blues (ブルース Burūsu?), es un personaje compañero perteneciente a la saga clásica de Mega Man. Él es un prototipo de robot desarrollado por el Dr. Light, y parte de la serie First Numbers. Como tal, es el primer robot del mundo con la capacidad de pensar y aprender. Proto Man descubrió que su generador de poder estaba defectuoso poco después de haber sido completo. Le preocupaba que reparar su generador de poder pudiera hacer que su programa de personalidad se borrará, por lo que Proto Man decidió dejar al Dr. Light. El errante Proto Man fue descubierto por el Dr. Wily antes de que su generador de poder estuviera a punto de detenerse. Pudo sobrevivir después de ser reparado y modificado por el Dr. Willy. La fuente de energía utilizada actualmente parece ser la energía nuclear. Gracias al análisis detallado de la estructura de Proto Man, el Dr. Wily dominó por completo la tecnología robótica del Dr. Light y luego utilizó este conocimiento para reprogramar a los robots industriales del Dr. Light en su primer plan de conquista mundial. A Proto Man le gusta estar solo. Sólo aparece frente a los demás cuando es necesario. También es muy difícil ponerse en contacto con él. Se dice que no le gusta que lo entrevisten. Su característica más distintiva es su silbido, y la melodía que siempre acompaña sus apariciones, es tan distintiva que fue incluso utilizada por el Dr. Wily para hacer una imitación de Proto Man.",
+        "phrase":"Los robots son máquinas que siguen órdenes. Yo soy una máquina que no lo hace, entonces ¿eso en qué me convierte?"
     },
     {
         "series": 1,
@@ -17,7 +18,8 @@ const robots = [
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/2/26/MMLCdatamegamanMM3.png",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/b/bf/Megaman.png",
         "weakness":"",
-        "stageImg":"",
+        "info":"Mega Man, conocido en Japón como Rockman (ロックマン Rokkuman?, lit. Hombre Rock, derivado de la frase Rock 'n Roll), construido originalmente como Rock (ロック Rokku?, también referido como Mega), es el protagonista de la saga clásica de 'Mega Man'. Él es un robot doméstico fabricado por el Dr. Light, y perteneciente a la serie First Numbers. Mega Man también es apodado como 'Bombardero Azul', y como 'Mega Man Original'.Cuando el Dr. Wily reprogramó a los robots del Dr. Light con la intención de conquistar el mundo, Rock se ofreció voluntariamente a convertirse en un robot de batalla para detener la ambición del Dr. Wily. Y sería renombrado como Mega Man.Tiene un fuerte sentido de la justicia y odia a quienes perturban la paz, especialmente al Dr. Wily. Su personalidad es un poco atrevida. Ama a los animales (especialmente los perros) y la naturaleza. Su pasatiempo es el fútbol.",
+        "phrase":"¡Seguiré luchando por llevar la paz a los humanos y robots!"
     },
     {
         "series": 1,
@@ -27,7 +29,8 @@ const robots = [
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/f/fd/MM1Roll.png",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/1/15/Roll.png?20210815191147",
         "weakness":"",
-        "stageImg":"",
+        "info":"Roll (ロール Rōru?, derivado de la frase Rock 'n Roll) es una robot doméstica fabricada por el Dr. Light, y perteneciente a la serie First Numbers. Fue creada al mismo tiempo que Rock y su función es ser una ama de llaves y asistente del Dr. Light. Es como la hermana de Rock, y el Dr. Light la ama como si fuera su propia hija. Es buena cuidando a otros, y se desenvuelve bien en las tareas del hogar y en la cocina. Sin embargo, tiene una personalidad un poco tímida y le teme a las cucarachas. Sin embargo, también tiene un lado fuerte. A menudo es directa y despiadada al hablar, y siempre tiene un impulso de valentía inesperada cuando ocasionalmente va al campo de batalla. Debido a que era una robot doméstica, el Dr. Wily la ignoró en su primer plan de conquista mundial.Su sueño es el de abrir un día un hospital para ayudar a las personas necesitadas.",
+        "phrase":"Todavía tengo que limpiar y lavar la ropa, ¡así que hagamos esto rápido!"
     },
     {
         "series": 1,
@@ -37,7 +40,8 @@ const robots = [
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/c/c4/MM-CutMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/2/22/Cutman.png",
         "weakness":"Super Arm",
-        "stageImg":"https://static.wikia.nocookie.net/esmegaman/images/d/dd/CutMan-Mapa.png",
+        "info":"Cut Man (カットマン Kattoman?, lit. Hombre Corte) es un Robot Master de tipo proyectil: clase búmeran fabricado por el Dr. Light, y perteneciente a la serie First Numbers. Fue fabricado para el desarrollo forestal, y es como un hermano menor para Mega Man.Incluyendo las grandes tijeras en su cabeza, todo su cuerpo está hecho de una aleación de titanio cerámico. Debido a su peso ligero, tiene buena adaptabilidad al mal clima. De hecho, la armadura de Mega Man está basada en él, salvo que la estructura de dicha armadura ha sido fortalecida. Por lo tanto, su poder defensivo no es tan bueno como el de Mega Man, pero lo compensa con un poder de salto mucho mayor.Está equipado con Rolling Cutter, unas tijera en su cabeza hechas de titanio cerámico, que pueden cortar árboles grandes sin esfuerzo.En 'Mega Man', Cut Man fue reprogramado por el Dr. Wily para que lo asistiera en su primer plan de conquista mundial.En 'Mega Man: Dr. Wily's Revenge', Cut Man volvió a ser reprogramado por el Dr. Wily.En 'Mega Man's Soccer', Cut Man fue reprogramado por el Dr. Wily para arrasar con los campos de fútbol de todo el mundo.En 'Mega Man: The Wily Wars/Mega Man', Cut Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del primer plan de conquista mundial. Cut Man tiene una mente muy astuta, pero no le gusta escuchar lo que dicen otros. Le gusta cortar cosas y hacer kirigami, pero odia las adivinanzas. También tiene la desventaja de ser fácilmente engañado y persuadido.",
+        "phrase":"¡Hasta que no me cortes por la mitad, yo lo seguiré intentando!"
     },
     {
         "series": 1,
@@ -47,7 +51,8 @@ const robots = [
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/7/70/MM-GutsMan.jpg",        
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/6/60/Gutsman.png",
         "weakness":"Hyper Bomb",
-        "stageImg":"https://static.wikia.nocookie.net/esmegaman/images/a/ac/GutsMan-Mapa.png",
+        "info":"Guts Man (ガッツマン Gattsuman?, trad. Hombre Aguante) es un Robot Master de ingeniería civil, de tipo poderoso & pesado fabricado por el Dr. Light y perteneciente a la serie First Numbers.Su armadura está reforzada con una aleación especial y es muy resistente a los daños. Equipado con Super Arm, posee una fuerza inmensa, pudiendo levantar fácilmente objetos que pesan 2 toneladas. A menudo se le puede ver trabajando con Bomb Man en proyectos de urbanización.Está equipado con Super Arm, que le permite cargar y lanzar pesados bloques. Puede usar su gran fuerza física para derribar a sus enemigos con una poderosa embestida, y hace temblar el suelo con sus saltos.En 'Mega Man', Guts Man fue reprogramado por el Dr. Wily para que lo asistiera en su primer plan de conquista mundial.En 'ega Man: The Wily Wars/Mega Man', Guts Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del primer plan de conquista mundial.Le gusta la cultura japonesa como el karaoke y el enka. Tiene una personalidad emocional, es impaciente y no le gusta que los demás pongan excusas. A menudo se siente angustiado porque su enorme cuerpo consume mucha energía. Es muy buen amigo de Stone Man",
+        "phrase":"¡Oye, solo hombres! Los niños pequeños no deben estar aquí. Regresa a tu casa antes de que te hagas daño."
     },
     {
         "series": 1,
@@ -57,7 +62,8 @@ const robots = [
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/0/04/MM-IceMan.jpg",        
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/6/61/IceMan.png",
         "weakness":"Thunder Beam",
-        "stageImg":"https://static.wikia.nocookie.net/esmegaman/images/4/44/IceMan-Mapa.png",
+        "info":"Ice Man (アイスマン Aisuman?, Trad. Hombre de Hielo) es un Robot Master fabricado por el Dr. Light, es de tipo hielo y perteneciente a la serie First Numbers. Fue fabricado como un robot de tierras gélidas para la exploración e investigación de la Antártida. Está equipado con Ice Slasher, siendo capaz de crear flechas de hielo de su boca con una temperatura de -200 grados centígrados, que pueden congelar muchos objetos. Después de su misión en la Antártida, viajó a varios lugares para transportar alimentos congelados. Sin embargo, como estaba diseñado para su uso en regiones frías, no podía tolerar las temperaturas de los asentamientos humanos comunes. En 'Mega Man', Ice Man fue reprogramado por el Dr. Wily para que lo asistiera en su primer plan de conquista mundial. En 'Mega Man: Dr. Wily's Revenge', Ice Man volvió a ser reprogramado por el Dr. Wily. En 'Mega Man: The Wily Wars/Mega Man', Ice Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del primer plan de conquista mundial. Su sueño a largo plazo es ahorrar gastos de viaje e irse de vacaciones a la Antártida. Es un niño muy orientado a sus objetivos pero obstinado al que le gustan las peleas de bolas de nieve, y lo que más odia son los saunas.",
+        "phrase":"¡Hay peligro por delante, señor! ¿Oh? ¡Deténgalo a toda costa, soldado!"
     },
     {
         "series": 1,
@@ -67,7 +73,8 @@ const robots = [
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/b/b6/MM-BombMan.jpg",        
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/2/24/BombMan.png",
         "weakness":"Mega Buster",
-        "stageImg":"https://static.wikia.nocookie.net/esmegaman/images/e/ec/BombMan-Mapa.png",
+        "info":"Bomb Man, conocido en Japón como Bomber Man (ボンバーマン Bonbāman?, Trad. Hombre Bomba u Hombre Bombardero), es un Robot Master fabricado por el Dr. Light, de tipo bomba y perteneciente a la serie First Numbers. Fue desarrollado como un robot destructor de rocas. Su trabajo principal es la urbanización de terrenos, a menudo trabajando en cooperación con Guts Man. Está equipado con Hyper Bomb, siendo capaz de sacar continuamente bombas ultrapotentes que pueden destruir todo tipo de rocas. En cuanto a dónde suele almacenar las bombas o los materiales utilizados para fabricarlas, ni siquiera el Dr. Light, quien lo fabricó, lo sabe. En 'Mega Man', Bomb Man fue reprogramado por el Dr. Wily para que lo asistiera en su primer plan de conquista mundial. En 'Mega Man: The Wily Wars/Mega Man', Bomb Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del primer plan de conquista mundial. Un experto de primer nivel en el uso de pólvora y explosivos. En términos de personalidad, siempre busca llamar la atención y nunca se preocupa de las consecuencias de sus actos. Le gusta jugar a los bolos pero odia los encendedores y los cerillos.",
+        "phrase":"No luces tan genial como siempre, Guts Man-- Pelea, fuegos artificiales… ¡Eso es todo!"
     },
     {
         "series": 1,
@@ -77,7 +84,8 @@ const robots = [
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/d/d9/Original_FireMan.jpg",        
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/a/a9/FireMan.png",
         "weakness":"Ice Slasher",
-        "stageImg":"https://static.wikia.nocookie.net/esmegaman/images/1/1b/FireMan-Mapa.png",
+        "info":"Fire Man (ファイヤーマン Faiyāman?, Trad. Hombre de Fuego) es un Robot Master creado/diseñado por el Dr. Light, de tipo flama y perteneciente a la serie First Numbers. Fue desarrollado como un robot de eliminación de residuos. Está equipado con Fire Storm, pudiendo generar instantáneamente llamas de 7000 a 8000 grados centigrados para quemar todo tipo de desechos. La llama en su cabeza parece usarse para encender las llamas disparadas por sus manos. En 'Mega Man', Fire Man fue reprogramado por el Dr. Wily para que lo asistiera en su primer plan de conquista mundial. En 'Mega Man: Dr. Wily's Revenge', Fire Man volvió a ser reprogramado por el Dr. Wily. En 'Mega Man's Soccer', Fire Man fue reprogramado por el Dr. Wily para arrasar con los campos de fútbol de todo el mundo. En 'Mega Man: The Wily Wars/Mega Man', Fire Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del primer plan de conquista mundial. Un robot de sangre caliente que llama a su llama 'La Llama de la Justicia'. Tiene una personalidad apasionada pero es inquieto e irritable. Le gusta acampar y odia los días lluviosos.",
+        "phrase":"¡Malvado! ¡Recuerda mi nombre, porque yo soy Fire Man! ¡Mi flama de la justicia va a redimirte!"
     },
     {
         "series": 1,
@@ -87,7 +95,8 @@ const robots = [
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/9/91/MM-ElecMan.jpg",        
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/e/ea/ElecMan.png",
         "weakness":"Rolling Cutter",
-        "stageImg":"https://static.wikia.nocookie.net/esmegaman/images/3/3c/ElecMan-Mapa.png",
+        "info":"Elec Man (エレキマン Erekiman?, Trad. Hombre Eléctrico), también referido como Electric Man es un Robot Master fabricado por el Dr. Light, siendo de tipo electricidad y perteneciente a la serie First Numbers. Fue desarrollado como un robot para la gestión de centrales nucleares. Está hecho para ser ágil y resolutivo para responder a los accidentes que puedan ocurrir en cualquier momento. Tiene el nivel más alto de habilidad entre los robots del Dr. Light. Está equipado con Thunder Beam, que gracias al poderoso generador instalado en su propio cuerpo, es capaz de emitir un rayo de descarga eléctrica, pudiendo provocar un cortocircuito y paralizar a cualquier robot a su voluntad. En 'Mega Man', Elec Man fue reprogramado por el Dr. Wily para que lo asistiera en su primer plan de conquista mundial. En 'Mega Man: Dr. Wily's Revenge', Elec Man volvió a ser reprogramado por el Dr. Wily. En 'Mega Man's Soccer', Elec Man fue reprogramado por el Dr. Wily para arrasar con los campos de fútbol de todo el mundo. En 'Mega Man: The Wily Wars/Mega Man', Elec Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del primer plan de conquista mundial. Tiene un fuerte sentido de responsabilidad, pero su personalidad es retorcida y bastante narcisista hasta cierto punto. A menudo pronuncia metáforas, pero la gente a su alrededor siente que habla literalmente. Le gusta tocar la guitarra eléctrica, pero odia los productos de caucho.",
+        "phrase":"No me malinterpretes, es que encuentro difícil de creer que un robot de poco voltaje como tú pueda derrotarme."
     },
     {
         "series": 2,
@@ -97,7 +106,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/2/26/MM2MetalMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/thumb/archive/1/19/20230303182334%21MetalMan.png/120px-MetalMan.png",
         "weakness": "Quick Boomerang/Metal Blade",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/3/37/MetalMan-Mapa.png"
+        "info":"Metal Man (メタルマン Metaruman?, trad. Hombre Metal) es un Robot Master fabricado por el Dr. Wily, siendo de tipo proyectil: clase búmeran y perteneciente a la serie Second Numbers. Es el primer robot humanoide de batalla construido por el Dr. Wily, quien se basó en Cut Man para su construcción. Está equipado con Metal Blade, una placa de metal con forma de sierra circular con un agujero redondo en el medio, que puede cortar toda clase de objetos, y que puede arrojar en rápida sucesión. El material utilizado para la fabricación de Metal Blade es la aleación de titanio cerámico, el mismo material que usan Cut Man y Mega Man. Como también tiene un trozo de ese arma en la cabeza, se dice que la reacción del Dr. Light cuando lo vio por primera vez en su monitor fue: '¿Es un robot dentista'. En 'Mega Man 2', Metal Man asistió al Dr. Wily en su segundo plan de conquista mundial. En 'Mega Man II', Metal Man asistió al Dr. Wily en su plan de robar la máquina del tiempo. En 'Mega Man: The Wily Wars/Mega Man 2', Metal Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del segundo plan de conquista mundial. Metal Man es muy eficiente en el trabajo y, a menudo, intimida a los demás porque cuenta con el favor del Dr. Wily. Ama los frisbees y odia los perros.",
+        "phrase":"¡Cortado! Ji Ji Ji..."
     },
     {
         "series": 2,
@@ -107,7 +117,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/d/d0/MM2AirMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/3/30/AirMan.png",
         "weakness": "Leaf Shield",
-        "stageImg": ""
+        "info":"Air Man (エアーマン Eāman?, Trad. Hombre Aire)es un Robot Master fabricado por el Dr. Wily, siendo de tipo viento, magnetismo, gravedad perteneciente a la serie Second Numbers. Fue diseñado por el Dr. Wily considerando la superioridad de un robot de tipo 'no humanoide' sobre un robot de tipo 'humanoide'. Aunque usa en su nombre el término 'Man', en realidad Air Man no pertenece a los robots de tipo 'humanoide'. De esto se derivó la clase 'Air Man type', es decir, un robot que ha adoptado una forma sin cabeza ni cuello, con los rasgos faciales (si los hubiera) directamente montados en la parte superior de su torso. Está equipado con Air Shooter, pudiendo generar el equivalente a un tornado desde su cañón de brazo, y usa su enorme ventilador para crear poderosos vientos. Por cierto, se dice que el enorme ventilador en su pecho y abdomen originalmente estaba destinado a ser una hélice para volar, pero luego se descubriría de un grave fallo (su cuerpo giraba en la dirección opuesta) y esta idea fue abandonada. Aún así, Air Man tiene un poder de salto enorme. En 'Mega Man 2' Air Man asistió al Dr. Wily en su segundo plan de conquista mundial. En 'Mega Man II', Air Man asistió al Dr. Wily en su plan de robar la máquina del tiempo. En 'Mega Man: The Wily Wars/Mega Man 2', Air Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del segundo plan de conquista mundial. Air Man suele tomarse las cosas muy a la lígera, pero también sabe cuando actuar como un adulto responsable. Le gusta jugar con fichas Patacón, pero odia la estación de otoño.",
+        "phrase":"¿Qué aire te soplo aquí?"
     },
     {
         "series": 2,
@@ -117,7 +128,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/5/5a/MM2BubbleMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/0/03/BubbleMan.png",
         "weakness": "Metal Blade",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/3/31/BubbleMan-Mapa.png"
+        "info":"Bubble Man (バブルマン Baburuman?, trad. Hombre Burbuja) es un Robot Master fabricado por el Dr. Wily, siendo de tipo submarino y perteneciente a la serie Second Numbers. Es el primer robot humanoide de batalla de uso submarino en el mundo. Debido al error del Dr. Wily, hubo un problema con el proceso de impermeabilización, haciendo que Bubble Man no pudiera caminar en el agua y solo pudiera moverse saltando. Incluso el propio Wily encontró gracioso este error. Está equipado con Bubble Lead, pudiendo utilizar balas de espuma especiales mezcladas con ácido sulfúrico para dotarlas de propiedades corrosivas. Además de tener una gran elasticidad, sus burbujas también pueden rodar por el suelo sin romperse. En 'Mega Man 2', Bubble Man asistió al Dr. Wily en su segundo plan de conquista mundial. En 'Mega Man: Dr. Wily's Revenge', Bubble Man volvió a cooperar con el Dr. Wily, y protegió su guarida. En 'Mega Man: The Wily Wars/Mega Man 2', Bubble Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del segundo plan de conquista mundial. Bubble Man tiene una personalidad burbujeante, pero derrocha fácilmente el dinero. Le gustan las aguas termales y odia las cosas grasosas.",
+        "phrase":"¡El mar puede absorberte!"
     },
     {
         "series": 2,
@@ -127,7 +139,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/9/91/MM2QuickMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/2/23/QuickMan.png",
         "weakness": "Time Stopper/Crash Bomber",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/9/91/MM2QuickMan.jpg"
+        "info":"Quick Man (クイックマン Kuikkuman?, Trad. Hombre Rápido)es un Robot Master fabricado por el Dr. Wily, siendo de tipo acción y perteneciente a la serie Second Numbers. Es un robot de supervelocidad diseñado por el Dr. Wily siguiendo la filosofía de diseño de Elec Man, tras concluir que él pudo poner a Mega Man en aprietos sencillamente solo con su velocidad. Está equipado con Quick Boomerang, que sumado a sus ataques de supervelocidad, debían someter fácilmente a Mega Man en combate. O eso se esperaba originalmente, pero su dispositivo contrarrestador de Time Stopper, instalado por el propio Dr. Wily, resulto defectuoso. No solo no podía anular los efectos de Time Stopper, sino que también reducía su propia fuerza física. En 'Mega Man 2', Quick Man asistió al Dr. Wily en su segundo plan de conquista mundial. En 'Mega Man: Dr. Wily's Revenge', Quick Man volvió a cooperar con el Dr. Wily, y protegió su guarida. En 'Mega Man: The Wily Wars/Mega Man 2', Quick Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del segundo plan de conquista mundial. Quick Man tiene mucha confianza en su velocidad y también está muy interesado en toda clase de competiciones basadas en velocidad. Inclusive quiere demostrar que es el más rápido en competencias de coches de carreras. Está acostumbrado a acostarse y levantarse temprano, y es alguien de poca paciencia. Le gustan los coches de carreras, pero odia a las tortugas.",
+        "phrase":"¿Puedes alcanzarme?"
     },
     {
         "series": 2,
@@ -137,7 +150,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/d/d0/MM2ClashMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/d/dc/CrashMan.png",
         "weakness": "Air Shooter",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/0/0a/CrashMan-Mapa.png"
+        "info":"Crash Man, conocido en Japón como Clash Man (クラッシュマン Kurasshuman?, trad. Hombre Choque), es un Robot Master fabricado por el Dr. Wily, siendo de tipo proyectil: clase taladro y perteneciente a la serie Second Numbers. Fue diseñado por el Dr. Wily tras descubrir el potencial de los explosivos de Bomb Man, y usar su filosofía de diseño para fabricar un robot que pudiera producir poderosas bombas explosivas para destruir a los robots enemigos. Está equipado con Crash Bomber, una bomba con una púa de acero fijada, para así poder penetrar su objetivo a destruir, y entonces, hacerlo explotar desde su interior. Para evitar la explosión causada por su propia bomba, la armadura de su cuerpo también ha sido especialmente reforzada siguiendo la filosofía de diseño de Guts Man. En 'Mega Man 2', Crash Man asistió al Dr. Wily en su segundo plan de conquista mundial. En 'Mega Man II', Crash Man asistió al Dr. Wily en su plan de robar la máquina del tiempo. En 'Mega Man: The Wily Wars/Mega Man 2', Crash Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del segundo plan de conquista mundial. Crash Man tiene una personalidad audaz y suele ser amable, pero una vez que ha sido provocado, es difícil detener su ira. Debido a que ambas manos en realidad son unos taladros de acero, le es imposible realizar trabajos que requieran dedos oponibles. Su pasatiempo es destruir edificios, pero odia recoger los escombros",
+        "phrase":"¡Yo soy el Destructor!"
     },
     {
         "series": 2,
@@ -147,7 +161,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/8/8a/MM2FlashMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/0/09/FlashMan.png",
         "weakness": "Crash Bomber/Metal Blade",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/b/bc/FlashMan-Mapa.png/revision/latest/scale-to-width-down/1000?cb=20170107020520"
+        "info":"Flash Man (フラッシュマン Furasshuman?, trad. Hombre Destello) es un Robot Master fabricado por el Dr. Wily, siendo de tipo otros y perteneciente a la serie Second Numbers. Se trata de un robot equipado con un dispositivo para detener el tiempo que fue desarrollado por el Dr. Wily. Está equipado con Time Stopper, un dispositivo que detiene el tiempo, aunque sea solo por un corto período. Su dispositivo puede detener el tiempo para el mundo entero, a excepción de aquellos robots equipados con un dispositivo contrarrestador. Dado que el dispositivo de Time Stopper está equipado en su cabeza, puede parecer calvo a primera vista, siendo que este detalle le genera cierta presión psicológica. Parece que a veces usa Time Stopper para cometer actos indecentes en las casas de baños. En 'Mega Man 2', Flash Man asistió al Dr. Wily en su segundo plan de conquista mundial.En 'Mega Man: Dr. Wily's Revenge', Flash Man volvió a cooperar con el Dr. Wily, y protegió su guarida. En 'Mega Man: The Wily Wars/Mega Man 2', Flash Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del segundo plan de conquista mundial. Flash Man es un comandante que trata muy bien a sus subordinados, pero a menudo se queja sin razón con ellos. Le encantan las cámaras, pero odia los anuncios de pelucas.",
+        "phrase":"¡Detente en el nombre del amor!"
     },
     {
         "series": 2,
@@ -157,7 +172,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/b/be/MM2HeatMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/1/1a/HeatMan.png",
         "weakness": "Bubble Lead",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/5/5a/HeatMan-Mapa.png"
+        "info":"Heat Man (ヒートマン Hītoman?, trad. Hombre Calor) es un Robot Master fabricado por el Dr. Wily, siendo de tipo flama y perteneciente a la serie Second Numbers. Es un robot humanoide de batalla construido por el Dr. Wily, quien se basó en Fire Man para su construcción. Está equipado con Atomic Fire, y con un dispositivo de encendido por chispa instalado en su cuerpo hipertérmico, pudiendo alcanzar una temperatura ultraalta de 12.000 grados en un instante.Hay un dial en su parte posterior que puede controlar su temperatura. Después de probar varias estructuras resistentes a altas temperaturas, el Dr. Wily decidió diseñarlo con la forma de un encendedor. En 'Mega Man 2', Heat Man asistió al Dr. Wily en su segundo plan de conquista mundial. En 'Mega Man: Dr. Wily's Revenge', Heat Man volvió a cooperar con el Dr. Wily, y protegió su guarida. En 'Mega Man: The Wily Wars/Mega Man 2', Heat Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del segundo plan de conquista mundial. Heat Man es un tipo bastante motivado, pero todos creen que es poco entusiasta debido a su apariencia. Le encanta la barbacoa, y odia el helado.",
+        "phrase":"Espera un minuto... Me estoy encendiendo."
     },
     {
         "series": 2,
@@ -167,7 +183,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/4/4f/MM2WoodMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/3/32/WoodMan.png",
         "weakness": "Atomic Fire/Air Shooter",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/4/42/WoodMan-Mapa.png"
+        "info":"Wood Man (ウッドマン Uddoman?, Trad. Hombre Madera) es un Robot Master fabricado por el Dr. Wily, siendo de tipo animales y plantas: clase planta perteneciente a la serie Second Numbers. Es un robot cuyo cuerpo entero está hecho de una armadura extremadamente dura hecha de madera de ciprés reforzado de alta calidad. Está equipado con Leaf Shield, un sistema de defensa hecho de placas de circuito con forma de hojas para desviar los ataques enemigos. Aunque la armadura de Wood Man es muy fuerte, sigue estando está hecha de madera y no puede soportar altas temperaturas. En 'Mega Man 2', Wood Man asistió al Dr. Wily en su segundo plan de conquista mundial. En 'Mega Man II', Wood Man asistió al Dr. Wily en su plan de robar la máquina del tiempo. En 'Mega Man's Soccer', Wood Man fue reprogramado por el Dr. Wily para arrasar con los campos de fútbol de todo el mundo. En 'Mega Man: The Wily Wars/Mega Man 2', Wood Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del segundo plan de conquista mundial. Tiene una personalidad bastante amable, pero así como es muy amable, también puede tornarse en una persona muy violenta. Le gusta escalar montañas y odia que dañen la naturaleza.",
+        "phrase":"¡Disfruta las maravillas de la naturaleza!"
     },
     {
         "series": 3,
@@ -177,7 +194,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/a/a3/MM3NeedleMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/7/7e/NeedleColor.png",
         "weakness": "Gemini Laser",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/e/e5/NeedleMan-Mapa.png"
+        "info":"Needle Man (ニードルマン Nīdoruman?, trad. Hombre Aguja) es un Robot Master de tipo proyectil: clase taladro fabricado combinando las capacidades técnicas del Dr. Light y el Dr. Wily, y perteneciente a la serie Third Numbers. Se trata de un robot cortapiedras diseñado para trabajar en minas y que está equipado con agujas fabricadas en superaleación. Pertenece a la clase 'Air Man Type'. Está equipado con Needle Cannon en ambas manos, un arma destructiva de largo alcance que puede penetrar paredes de concreto de 30 centímetros de espesor, y con el Needle Hammer montado en su cabeza puede atacar a enemigos cercanos. Cuando fue modificado en un robot de batalla, se le fue trasplantado el programa de Metal Man, por lo que tiene una personalidad agresiva y su método de combate se concentra en acercarse a su oponente mientras ataca continuamente. Aunque parece tener una armadura gruesa, en realidad está diseñado siguiendo la filosofía de diseño del cuerpo de Air Man y, por lo tanto, es muy liviano. En 'Mega Man 3', Needle Man formó parte de la expedición a los planetas desconocidos para la recolección de los elementos de energía, pero secretamente fue modificado por el Dr. Wily para asistirlo en su tercer plan de conquista mundial. En 'Mega Man II', Needle Man volvió a cooperar con el Dr. Wily, y protegió su guarida. En 'Mega Man's Soccer', Needle Man fue reprogramado por el Dr. Wily para arrasar con los campos de fútbol de todo el mundo. En 'Mega Man: The Wily Wars/Mega Man 3', Needle Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del tercer plan de conquista mundial. Needle Man es alguien con una 'lengua afilada'. Le gusta la sastrería y odia las inyecciones.",
+        "phrase":"¡Siente el ojo de la aguja!"
     },
     {
         "series": 3,
@@ -187,7 +205,9 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/0/0a/MM3MagnetMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/d/d3/MagnetMan.png",
         "weakness": "Spark Shock",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/a/ad/MagnetMan-Mapa.png"
+        "info":"Magnet Man (マグネットマン Magunettoman?, Trad. Hombre Imán) es un Robot Master de tipo viento, magnetismo, gravedad fabricado combinando las capacidades técnicas del Dr. Light y el Dr. Wily, y perteneciente a la serie Third Numbers. Se trata de un robot dotado de potentes imanes que se encarga de separar y purificar los minerales.Está equipado con Magnet Missile, un proyectil que utiliza imanes para rastrear a sus enemigos. En 'Mega Man 3', Magnet Man formó parte de la expedición a los planetas desconocidos para la recolección de los elementos de energía, pero secretamente fue modificado por el Dr. Wily para asistirlo en su tercer plan de conquista mundial. En 'Mega Man II', Magnet Man volvió a cooperar con el Dr. Wily, y protegió su guarida. En 'Mega Man: The Wily Wars/Mega Man 3', Magnet Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del tercer plan de conquista mundial. Debido a la excesiva dependencia de sus propios imanes en su trabajo, Magnet Man han desarrollado una personalidad magnética. Sin embargo, como resultado de ello, ocurrió la tragedia de que 'por quedarse dormido, fue succionado hacia el techo y colgó boca abajo', aunque después de eso, simplemente adquirió la costumbre de esconderse en un rincón del techo cada vez que quiere tomar una siesta.Magnet Man tiene grandes habilidades de gestión, pero un pésimo sentido de la orientación provocado por sus interferencias magnéticas. Aunque es un robot, presta gran atención a su salud y le gustan los masajes de acupresión. Le preocupa el hecho de que no puede utilizar cintas magnéticas.",
+        "phrase":"Yo siento las vibras de los días…"
+
     },
     {
         "series": 3,
@@ -197,7 +217,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/4/4a/MM3GeminiMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/7/78/GeminiManMegaMan3.png",
         "weakness": "Search Snake",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/1/12/GeminiMan-Mapa.png"
+        "info":"Gemini Man (ジェミニマン Jeminiman?, Trad. Hombre Géminis) es un Robot Master de tipo carisma fabricado combinando las capacidades técnicas del Dr. Light y el Dr. Wily, y perteneciente a la serie Third Numbers. Fue desarrollado como un robot para la trituración de objetos duros y puede utilizar láseres de alta potencia para destruir minerales. El Dr. Light y el Dr. Wily, parecen haberle instalado un dispositivo de proyección holográfica sin ninguna razón aparente, y que puede producir un efecto de clonación realista. Está equipado con Gemini Laser, que fue secretamente desarrollado por el Dr. Wily, quien reemplazo su dispositivo láser original por un emisor de 'partículas de reacción', que fueron descubiertas por el Dr. Light, lo que dio como resultado al Gemini Laser, que es un láser que se refleja por completo cuando entra en contacto con objetos inconscientes, y que provoca daños al entrar en contacto con objetos pensantes. En 'Mega Man 3', Gemini Man formó parte de la expedición a los planetas desconocidos para la recolección de los elementos de energía, pero secretamente fue modificado por el Dr. Wily para asistirlo en su tercer plan de conquista mundial. En 'Mega Man III', Gemini Man cooperó con el Dr. Wily en su plan de interferir con la supercomputadora, y lideró un ejército de robots para arrasar una ciudad. En 'Mega Man: The Wily Wars/Mega Man 3', Gemini Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del tercer plan de conquista mundial. Tiene una personalidad narcisista, tranquila y elegante y disfruta de estar rodeado de cualquier cosa que se vea estético. Le gusta mirarse en el espejo y odia las serpientes. Se dice que en privado hace aparecer a su copia sólo para admirar su propia apariencia.",
+        "phrase":"Mis clones son muy impresionantes."
     },
     {
         "series": 3,
@@ -207,7 +228,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/a/a9/MM3HardMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/8/89/HeavyMan.png",
         "weakness": "Magnet Missile",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/6/6a/HardMan-Mapa.png"
+        "info":"Hard Man (ハードマン Hādoman?, Trad. Hombre Duro) es un Robot Master de tipo poderoso & pesado fabricado combinando las capacidades técnicas del Dr. Light y el Dr. Wily, y perteneciente a la serie Third Numbers. Es un robot de preparación de suelos hecho enteramente de una aleación de titanio cerámico de densidad ultra alta y dureza ultra alta. Comprime 3 toneladas de peso en su cuerpo. Está equipado con un cohete en miniatura dentro de su cuerpo, que le permite realizar saltos altos y caer para aplanar el suelo. Hard Man tiene poca movilidad debido a su enorme peso, lo que le genera ciertas inseguridades. Está equipado con Hard Knuckle, que consiste en pequeños cohetes instalados en sus puños. En 'Mega Man 3', Hard Man formó parte de la expedición a los planetas desconocidos para la recolección de los elementos de energía, pero secretamente fue modificado por el Dr. Wily para asistirlo en su tercer plan de conquista mundial. En 'Mega Man II', Hard Man volvió a cooperar con el Dr. Wily, y protegió su guarida. En 'Mega Man: The Wily Wars/Mega Man 3', Hard Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del tercer plan de conquista mundial. Hard Man tiene una personalidad recta, por eso le gusta pelear justa y abiertamente, y detesta en cierto grado a Snake Man, quien gusta de pelear estratégicamente y de manera indirecta. Su mayor fortaleza es que mantiene su boca cerrada. Le gusta la lucha sumo, pero odia nadar.",
+        "phrase":"Ohhh, que arrastrado.."
     },
     {
         "series": 3,
@@ -217,7 +239,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/7/70/MM3TopMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/b/bc/TopMan.png",
         "weakness": "Hard Knuckle",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/9/9e/TopMan-Mapa.png"
+        "info":"Top Man (タップマン Tappuman?, Trad. Hombre Trompo) es un Robot Master de tipo acción fabricado combinando las capacidades técnicas del Dr. Light y el Dr. Wily, y perteneciente a la serie Third Numbers. Es un robot diseñado para manejar situaciones de emergencia en minas. Top Man está equipado con Top Spin, un escudo protector especial que se despliega cuando gira su cuerpo rápidamente. Aunque está equipado con un dispositivo de equilibrio automático para evitar que se caiga al girar su cuerpo, Top Man se mareará cuando gira por mucho tiempo, y por eso no puede mantener su estado de giro por tiempos prolongados. También está equipado con un dispositivo que puede fabricar trompos. En 'Mega Man 3', Top Man formó parte de la expedición a los planetas desconocidos para la recolección de los elementos de energía, pero secretamente fue modificado por el Dr. Wily para asistirlo en su tercer plan de conquista mundial. En 'Mega Man II', Top Man volvió a cooperar con el Dr. Wily, y protegió su guarida. En 'Mega Man: The Wily Wars/Mega Man 3', Top Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del tercer plan de conquista mundial. Top Man es bueno para entablar relaciones con todo tipo de personas, pero tiene una personalidad frívola. Aunque siempre planifica con antelación cuando hace las cosas, sus planes suelen ser demasiado optimistas. Le gusta patinar y odia a la gente que no sabe bailar.",
+        "phrase":"¡¡Tú giras alrededor de mí, nena!!"
     },
     {
         "series": 3,
@@ -227,7 +250,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/1/12/MM3SnakeMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/7/7b/SnakeMan.png",
         "weakness": "Needle Cannon",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/a/a3/SnakeMan-Mapa.png"
+        "info":"Snake Man (スネークマン Sunēkuman?, trad. Hombre Serpiente) es un Robot Master de tipo animales y plantas: clase animal fabricado combinando las capacidades técnicas del Dr. Light y el Dr. Wily, y perteneciente a la serie Third Numbers. Fue desarrollado como un robot con cuerpo flexible diseñado para el estudio del terreno en lugares estrechos. Un robot con cuerpo flexible diseñado para la exploración de terrenos en lugares reducidos. Su especialidad es moverse como una serpiente y cazar a su oponente. Está equipado con Search Snake, una pequeña serpiente mecánica que usa para destruir obstáculos a lo largo del terreno. En 'Mega Man 3', Snake Man formó parte de la expedición a los planetas desconocidos para la recolección de los elementos de energía, pero secretamente fue modificado por el Dr. Wily para asistirlo en su tercer plan de conquista mundial. En 'Mega Man III', Snake Man cooperó con el Dr. Wily en su plan de interferir con la supercomputadora, y lideró un ejército de robots para arrasar una ciudad. En 'Mega Man: The Wily Wars/Mega Man 3', Snake Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del tercer plan de conquista mundial. Le gusta usar trucos para incriminar a otros, por lo que tiene una personalidad opuesta a la de Hard Man, quien es alguien recto. Piensa las cosas detenidamente, pero también es relativamente persistente. Tiene un gusto enfermizo por Toad Man, pero odia las babosas.",
+        "phrase":"¡No te puedes esconder de mi!"
     },
     {
         "series": 3,
@@ -237,7 +261,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/e/ec/MM3SparkMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/d/d9/SparkNoTheOtherOne.png",
         "weakness": "Shadow Blade",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/a/a4/SparkMan-Mapa.png"
+        "info":"Spark Man (スパークマン Supākuman?, Trad. Hombre Chispas) es un Robot Master de tipo tipo electricidad fabricado combinando las capacidades técnicas del Dr. Light y el Dr. Wily, y perteneciente a la serie Third Numbers. Fue desarrollado para recargar a otros robots. Está equipado con Spark Shock, pudiendo emitir 2 tipos de descarga eléctrica, gracias al generador de alta potencia dentro de su cuerpo, que tiene el doble de capacidad de generación de energía que Elec Man. Dado que su sistema está especialmente diseñado para cargar, su poder de ataque no es muy alto y solo puede lograr un efecto de parálisis a corto plazo en muchos enemigos. En 'Mega Man 3', Spark Man formó parte de la expedición a los planetas desconocidos para la recolección de los elementos de energía, pero secretamente fue modificado por el Dr. Wily para asistirlo en su tercer plan de conquista mundial. En 'Mega Man III', Spark Man cooperó con el Dr. Wily en su plan de interferir con la supercomputadora, y lideró un ejército de robots para arrasar una ciudad. En 'Mega Man: The Wily Wars/Mega Man 3', Spark Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del tercer plan de conquista mundial. Debido a que una corriente excesiva alta pasa a menudo a través de su cuerpo, su cerebro electrónico suele estar confuso y es muy olvidadizo. Tiene un fuerte sentido de asociación y odia estar solo. Le gustan los bagres y las anguilas.",
+        "phrase":"No te salgas de la linea, por favor."
     },
     {
         "series": 3,
@@ -247,7 +272,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/4/41/MM3ShadowMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/5/54/ShadowMan.png",
         "weakness": "Top Spin",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/c/c7/ShadowMan-Mapa.png"
+        "info":"Shadow Man (シャドーマン Shadōman?, trad. Hombre Sombra) es un Robot Master de tipo personificación y perteneciente a la serie Third Numbers. Es un misterioso robot excavado entre las ruinas de una civilización extraterrestre. Después de ser modificado por el Dr. Wily, se unió al equipo de robots mineros que se dirigían a los planetas desconocidos.[2] Shadow Man tiene una apariencia de ninja y utiliza técnicas ninja como estilo de combate. Está equipado con Shadow Blade, una estrella ninja que está recubierta por un líquido que puede alterar las funciones de los robots. En 'Mega Man 3', Shadow Man formó parte de la expedición a los planetas desconocidos para la recolección de los elementos de energía, pero secretamente fue modificado por el Dr. Wily para asistirlo en su tercer plan de conquista mundial. En 'Mega Man III', Shadow Man cooperó con el Dr. Wily en su plan de interferir con la supercomputadora, y lideró un ejército de robots para arrasar una ciudad. En 'Mega Man: The Wily Wars/Mega Man 3', Shadow Man fue restaurado gracias a la máquina de tiempo del Dr. Wily para cambiar los eventos del tercer plan de conquista mundial. Es bueno con disfraces rápidos y de la técnica kawarimi, le gusta usar trucos para asustar a la gente y odia los trucos aburridos. Es del tipo de persona que no es bueno para pensar profundamente. Su sueño es construir una ciudad ninja llena de trampas ninja para satisfacer plenamente sus aterradores deseos. Tiene una buena relación con Wood Man.",
+        "phrase":"Yo difícilmente puedo esperar por la sorpresa."
     },
     {
         "series": 4,
@@ -257,7 +283,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/6/60/MM4-BrightMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/a/ac/BrightMan.png",
         "weakness": "Rain Flush",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/4/4e/BrightMan-Mapa.png"
+        "info":"Bright Man (ブライトマン Buraitoman?, lit. Hombre Brillo) es un Robot Master de tipo otros fabricado por el Dr. Cossack, y perteneciente a la serie Fourth Numbers. Originalmente era un robot utilizado para iluminar calles oscuras y proporcionar iluminación de emergencia. Equipado con Flash Stopper, emite una luz de 10 millones de vatios de potencia desde la bombilla de su cabeza, suficiente para paralizar temporalmente a un robot al sobrecargar sus ojos electrónicos por la fuerte iluminación. Dado que la función de iluminación consume mucha energía, no se le pueden instalar otras armas. Debido a su experiencia previa con Flash Man, el Dr. Wily fue muy cauteloso y decidió agregar equipos para resistir la luz intensa en los otros robots del Dr. Cossack. En 'Mega Man 4', Bright Man fue modificado por el Dr. Wily y se convirtió en un robot de batalla, y lo asistiría en su cuarto plan de conquista mundial. En 'Mega Man IV', Bright Man asistió a la 'Exposición Mundial de Robots', donde sería afectado por el pulso eléctrico del Dr. Wily, y terminaría causando estragos en varias ciudades. Bright Man a menudo tiene ideas brillantes y también es un maestro de la invención. Odia las luces de neón y le gusta parlotear sin cesar cada vez que empieza a hablar.",
+        "phrase":"¡Algo vendrá a mí en un destello!"
     },
     {
         "series": 4,
@@ -267,7 +294,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/7/77/MM4-ToadMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/b/bf/Toadman.png",
         "weakness": "Drill Bomb",
-        "stageImg": "https://static.wikia.nocookie.net/esmegaman/images/f/f1/ToadMan-Mapa.png"
+        "info":"Toad Man (トードマン Tōdoman?, Trad. Hombre Sapo) es un Robot Master de tipo animales y plantas: clase animal fabricado por el Dr. Cossack, y perteneciente a la serie Fourth Numbers. Originalmente era un robot utilizado en la agricultura. Equipado con Rain Flush, puede fabricar lluvia artificial cuando las reservas agua son insuficientes. Sin embargo, después de ser modificado por el Dr. Wily, su fórmula de su poción de lluvia fue alterada para producir agua de lluvia altamente ácida. Antes de hacer llover, mueve su cintura para preparar la fórmula. En 'Mega Man 4', Toad Man fue modificado por el Dr. Wily y se convirtió en un robot de batalla, y lo asistiría en su cuarto plan de conquista mundial. En 'Mega Man IV', Toad Man asistió a la 'Exposición Mundial de Robots', donde sería afectado por el pulso eléctrico del Dr. Wily, y terminaría causando estragos en varias ciudades. Toad Man es bueno para la física, química y el triple salto, y tiene un buen oído musical. Realmente detesta a Snake Man.",
+        "phrase":"¡Después de la lluvia, la destrucción!"
     },
     {
         "series": 4,
@@ -277,7 +305,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/c/cb/MM4-DrillMan.jpg",        
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/2/25/Drillsprite.png",
         "weakness": "Dive Missile",
-        "stageImg": ""
+        "info":"Drill Man (ドリルマン Doriruman?, Trad. Hombre Taladro) es un Robot Master de tipo proyectil: clase taladro fabricado por el Dr. Cossack, y perteneciente a la serie Fourth Numbers. Comenzó como un robot que perforaba agujeros en obras de construcción. Fue modificado para uso en combate por el Dr. Wily. Está equipado con Drill Bomb, unos taladros instalados en ambas manos que pueden perforar fácilmente agujeros en concreto duro, y también pueden ser reemplazados con diferentes tipos de taladro, según las necesidades de su trabajo. También puede abrir un gran orificio por sí solo al girar el taladro unido a su cabeza. En 'Mega Man 4', Drill Man fue modificado por el Dr. Wily y se convirtió en un robot de batalla, y lo asistiría en su cuarto plan de conquista mundial.En 'Mega Man III', Drill Man fue reprogramado por el Dr. Wily para proteger su guarida. Entusiasta por el trabajo, pero con falta de capacidad de planificación. Le gusta los trabajos donde debe de cavar hoyos, pero odia hacer cálculos. Una vez fue elogiado por cavar accidentalmente una fuente termal.",
+        "phrase":"Uups, he dañado el conducto de gas…"
     },
     {
         "series": 4,
@@ -287,7 +316,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/d/d4/MM4-PharaohMan.jpg",        
         "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/b/bb/Pharaohsprite.png",
         "weakness": "Flash Stopper",
-        "stageImg": ""
+        "info":"Pharaoh Man (ファラオマン Faraoman?, Trad. Hombre Faraón) es un Robot Master de tipo leyenda y relato fabricado por el Dr. Cossack, y perteneciente a la serie Fourth Numbers. Es un robot utilizado para la exploración y mantenimiento de pirámides. Tiene ojos electrónicos agudos que le permiten moverse libremente en la oscuridad, pero también es intolerante a la luz brillante. Tiene alta durabilidad y flexibilidad para evitar el contacto accidental con trampas en el interior de las pirámides. Se dice que tiene bajo su comando un equipo de mil Mummira. Su apariencia está diseñada en base a Tutankamón para evitar la maldición de las pirámides. Equipado con Pharaoh Shot, lanza balas creadas por la energía del sol. Cuando esta bajo de energía, puede cargar la energía solar y arrojar balas incrementadas por su espíritu de lucha y que hacen un daño poderoso. En 'Mega Man 4', Pharaoh Man fue modificado por el Dr. Wily y se convirtió en un robot de batalla, y lo asistiría en su cuarto plan de conquista mundial. En 'Mega Man IV', Pharaoh Man asistió a la 'Exposición Mundial de Robots', donde sería afectado por el pulso eléctrico del Dr. Wily, y terminaría causando estragos en varias ciudades.En 'Mega Man's Soccer', Pharaoh Man fue reprogramado por el Dr. Wily para arrasar con los campos de fútbol de todo el mundo. Muy carismático, pero tímido cerca de mujeres bonitas. Le gusta encontrar tesoros y no tolera a los profanadores de tumbas",
+        "phrase":"¡Yo soy el rey del mundo!"
     },
     {
         "series": 4,
@@ -297,7 +327,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/6/6c/MM4-RingMan.jpg",        
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/b/b3/MM10WA4.png",
         "weakness": "Pharaoh Shot",
-        "stageImg": ""
+        "info":"Ring Man (リングマン Ringuman?, trad. Hombre Aro) es un Robot Master de tipo proyectil: clase búmeran fabricado por el Dr. Cossack, y perteneciente a la serie Fourth Numbers. Es un robot de combate diseñado con la premisa de luchar contra Mega Man. Está equipado con Ring Boomerang, un búmeran con forma de aro que puede controlar libremente su ángulo y distancia de vuelo. Se dice que Ring Boomerang originalmente fue diseñado como un arma en forma de anillo para que los disparos del Mega Buster pasarán a través de él. En 'Mega Man 4', Ring Man fue modificado por el Dr. Wily, y lo asistiría en su cuarto plan de conquista mundial. En 'Mega Man IV', Ring Man asistió a la 'Exposición Mundial de Robots', donde sería afectado por el pulso eléctrico del Dr. Wily, y terminaría causando estragos en varias ciudades. Una vez dijo: 'No hay enemigo que no pueda derrotar'. Considera a Mega Man como su oponente número uno. Es un buen estratega pero tiene exceso de confianza. Su pasatiempo es jugar quoits, y odia a los niños.",
+        "phrase":"¡No esperes piedad, Mega Man!"
     },
     {
         "series": 4,
@@ -307,7 +338,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/e/e9/MM4-DustMan.jpg",        
         "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/4/41/Dustsprite.png",
         "weakness": "Ring Boomerang",
-        "stageImg": ""
+        "info":"Dust Man (ダストマン Dasutoman?, Trad. Hombre Basura u Hombre Polvo) es un Robot Master de tipo otros fabricado por el Dr. Cossack, y perteneciente a la serie Fourth Numbers. Fue fabricado como un robot devorador de basura construido para limpiar el laboratorio del Dr. Cossack. Puede aspirar cualquier cosa más pequeña que él hacia su cuerpo. Está equipado con Dust Crusher, siendo capaz de expulsar trozos de basura desde el conducto de su cabeza, dichos trozos de basura se dividen en 4 direcciones. Dado que el Dr. Wily usó chatarra para armar al robot de combate de producción en masa, Junk Golem, en su tercer plan de conquista mundial, e inspirándose en aquel robot, transformó a Dust Man en un robot de batalla.  En 'Mega Man 4', Drill Man fue modificado por el Dr. Wily y se convirtió en un robot de batalla, y lo asistiría en su cuarto plan de conquista mundial. En 'Mega Man III', Dust Man fue reprogramado por el Dr. Wily para proteger su guarida. En 'Mega Man's Soccer', Dust Man fue reprogramado por el Dr. Wily para arrasar con los campos de fútbol de todo el mundo. Aunque fue transformado en un robot de batalla, su personalidad limpia no ha cambiado y sigue haciéndose responsable del trabajo de limpieza del laboratorio del Dr. Cossack. Su actividad favorita es la limpieza de fin de año. Odia la sensación de que su puerto de recolección de basura esté bloqueado y tampoco le gusta respirar polen. Además, parece que se preocupa por su mal aliento. Aunque Dust Man tiene un cañón de mano, no parecen estar equipado con un modo de ataque.",
+        "phrase":"No me dejes soplar más de lo que puedo manejar."
     },
     {
         "series": 4,
@@ -317,7 +349,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/3/3e/MM4-DiveMan.jpg",        
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/d/df/Divesprite.png",
         "weakness": "Skull Barrier",
-        "stageImg": ""
+        "info":"Dive Man (ダイブマン Daibuman?, Trad. Hombre Buzo) es un Robot Master de tipo submarino fabricado por el Dr. Cossack, y perteneciente a la serie Fourth Numbers. Se trata de un robot compuesto por un cerebro electrónico de IA instalado en un pequeño submarino. Está equipado con Dive Missile, pudiendo disparar torpedos de rastreo desde su pecho, pero debido a un error de diseño, puede usarse a sí mismo como un torpedo y embestir al enemigo. Estos errores de diseño se conservaron gracias a su gracias eficacia en combate. En 'Mega Man 4', Dive Man fue modificado por el Dr. Wily y se convirtió en un robot de batalla, y lo asistiría en su cuarto plan de conquista mundial. En 'Mega Man III', Dive Man fue reprogramado por el Dr. Wily para proteger su guarida. Dive Man tiene buen oído gracias a su sonar, pero se marea sin importar el tipo de transporte que use (incluido él mismo). Le gustan las aguas con arrecifes de coral y tiene un gran disgusto por Pirate Man.",
+        "phrase":"Yuck. Yo me siento mareado. Bleah"
     },
     {
         "series": 4,
@@ -327,7 +360,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/e/eb/MM4-SkullMan.jpg",        
         "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/e/e8/Skullsprite.png",
         "weakness": "Dust Crusher",
-        "stageImg": ""
+        "info":"Skull Man (スカルマン Sukaruman?, trad. Hombre Calavera) es un Robot Master de tipo leyenda y relato fabricado combinando las capacidades técnicas del Dr. Cossack y del Dr. Wily, y perteneciente a la serie Fourth Numbers. Es un súper robot de batalla, que posee todos los aspectos de ataque, defensa, velocidad e inteligencia. Está equipado con Skull Barrier, siendo capaz de generar un campo de fuerza especial en forma de calavera. En 'Mega Man 4', Skull Man fue fabricado para asistir al Dr. Wily en su cuarto plan de dominación mundial. En 'Mega Man III', Skull Man fue reprogramado por el Dr. Wily para proteger su guarida. En 'Mega Man's Soccer', Skull Man fue reprogramado por el Dr. Wily para arrasar con los campos de fútbol de todo el mundo. Como no le enseñaron nada más que luchar, se convirtió en un despiadado adicto a combatir, aún así valora bastante las peleas justas. Debido a su excesiva calma, a menudo llega a un punto muerto con sus oponentes durante las batallas. No le teme al trabajo duro, le gusta ver películas de terror y cualquier contenido repulsivo. No le gusta complicarse.",
+        "phrase":"¡Ahora! ¡Vamos a alborotarnos!"
     },
     {
         "series": 5,
@@ -337,7 +371,8 @@ const robots = [
         "avatar": "https://th.bing.com/th/id/R.5f76bae9e9407baf90b81b1a7b0e5fd2?rik=uObE%2bPFKv6lzKQ&riu=http%3a%2f%2fimages.wikia.com%2fmegaman%2fimages%2f1%2f17%2fMM5-GravityMan.jpg&ehk=%2fxUDtdSftBxHx8yq8FiCtu0U4PBTktgRSqZGV%2b3oo9M%3d&risl=&pid=ImgRaw&r=0",
         "sprite1": "http://vignette1.wikia.nocookie.net/megaman/images/9/9d/Gravitysprite.png",
         "weakness": "Star Crash",
-        "stageImg": ""
+        "info":"Gravity Man (グラビティーマン Gurabitīman?, Trad. Hombre Gravedad) es un Robot Master de tipo viento, magnetismo, gravedad fabricado por el Dr. Wily, y perteneciente a la serie Fifth Numbers. Está equipado con un dispositivo antigravedad desarrollado por el Instituto de Investigación de Antigravedad. Capaz de manipular la gravedad en un espacio equivalente al tamaño de una habitación. Equipado con Gravity Hold, manipula la gravedad, pero debido a que su dispositivo antigravedad consume demasiada energía no se le pudo instalar otro armamento poderoso salvo un brazo cañón, siendo que está completamente expuesto cuando altera la gravedad. En 'Mega Man 5', bajo órdenes del Dr. Wily, Gravity Man invadió el Instituto de Investigación de Antigravedad. Gusta del estudio de la física, pero debido a la devoción de sus estudios no es bueno para comunicarse con otros. Inclusive, si recibe visitas de personas no agradables, usa su dispositivo anti-gravedad para esconderse en el techo. Odia que en el espacio exterior haya poca gravedad.",
+        "phrase":"Sin embargo, la tierra se mueve."
     },
     {
         "series": 5,
@@ -347,7 +382,8 @@ const robots = [
         "avatar": "https://th.bing.com/th/id/R.de67dcb54da81a71da072addeae3f9e6?rik=GdCQKCt%2fs5ZFqg&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20110413195201%2fmegaman%2fimages%2fthumb%2fc%2fc9%2fMM5-WaveMan.jpg%2f500px-MM5-WaveMan.jpg&ehk=XEnG4OcsME8CT2EHp5cyWseXIhRyga1ZqHSs0UWZzeU%3d&risl=&pid=ImgRaw&r=0",        
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/c/cc/Wavesprite.png",
         "weakness": "Charge Kick",
-        "stageImg": ""
+        "info":"Wave Man (ウェーブマン Wēbuman?, Trad. Hombre Ola) es un Robot Master de tipo submarino fabricado por el Dr. Wily, y perteneciente a la serie Fifth Numbers. Fue fabricado bajo la siguiente creencia: 'El primer paso para conquistar el mundo es controlar el suministro de agua'. Un robot de combate anfibio desarrollado para someter la Oficina de Control de Calidad del Agua. Está equipado con Water Wave, siendo capaz de generar una columna de agua, y tiene instalado en su brazo derecho un arpón. En 'Mega Man 5', bajo órdenes del Dr. Wily, Wave Man invadió la Oficina de Control de Calidad del Agua, con el propósito de retener el agua potable. Odia interactuar con personas y deliberadamente se mantendrá alejado de su oponente en batalla. Tiene un mal carácter, con una personalidad áspera e irritable, y si lo haces enojar te apuñalará con el arpón de su mano derecha. Disfruta de pasear bajo el agua y detesta el lodo.",
+        "phrase":"¡Aléjate de mí!"
     },
     {
         "series": 5,
@@ -357,7 +393,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/7/79/MM5-StoneMan.jpg",        
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/a/ab/Stonesprite.png",
         "weakness": "Napalm Bomb",
-        "stageImg": ""
+        "info":"Stone Man (ストーンマン Sutōnman?, Trad. Hombre Piedra) es un Robot Master de tipo poderoso & pesado fabricado por el Dr. Wily, y perteneciente a la serie Fifth Numbers. Fue fabricado con el propósito de ocupar la zona de alta montaña que sirve de cimiento para el Parque Aéreo. Todo su cuerpo está hecho de piedras pesadas, pero aún así puede saltar y moverse libremente. Hay ocasiones donde al aterrizar se desmorona al no poder soportar su propio peso, en esos casos utiliza el sistema de autoreparación de Skeleton Joe para rearmarse. Está equipado con Power Stone, siendo capaz de formar un círculo de piedras pesadas a su alrededor que golpearán a todos sus enemigos con una fuerza inmensa. Cuenta con un ataque de salto suave a pesar de su peso súper pesado. En 'Mega Man 5', bajo órdenes del Dr. Wily, Stone Man ocupó la Alta Montaña que servía de cimiento al Parque Aéreo. En 'Mega Man IV', Stone Man volvió a cooperar con el Dr. Wily, y se encargó de proteger su guarida.  Tiene una buena relación de amistad con Guts Man. Con una personalidad obstinada y de fuerte voluntad, detesta a las personas mezquinas. Disfruta de pasar su tiempo sumergido en aceite.",
+        "phrase":"Guts Man, vamos a ver una buena película"
     },
     {
         "series": 5,
@@ -367,7 +404,8 @@ const robots = [
         "avatar": "https://vignette2.wikia.nocookie.net/megaman/images/3/32/MM5-GyroMan.jpg/revision/latest?cb=20110413230520",        
         "sprite1": "http://vignette3.wikia.nocookie.net/megaman/images/c/c3/Gyrosprite.png",
         "weakness": "Gravity Hold",
-        "stageImg": ""
+        "info":"Gyro Man (ジャイロマン Jairoman?, Trad. Hombre Hélice) es un Robot Master de tipo vehículo fabricado por el Dr. Wily, y perteneciente a la serie Fifth Numbers. Fue fabricado con el propósito de ocupar el Parque Aéreo, una concurrida zona recreativa de la ciudad. Originalmente fue diseñado para tener equipado un propulsor jet, pero fue cambiado por una hélice debido a que el Dr. Wily se quedó sin fondos, aún así, Gyro Man considera que se ve más genial con la hélice. Está equipado con Gyro Attack, una cuchilla en forma de hélice que vuela horizontalmente y que puede cambiar su trayectoría para que adopte un desplazamiento vertical. En 'Mega Man 5', bajo órdenes del Dr. Wily, Gyro Man tomo posesión del Parque Aéreo, con la esperanza de recaudar mucho dinero con la tarifa de entrada. Sin embargo, los visitantes dejaron de asistir al parque luego de que fuera tomado, por lo que no se pudo generar ninguna ganancia. Aunque no se lamenta no tener un propulsor jet, el incidente detrás de su fallida creación le ha generado una aversión a cualquier máquina equipada con dicho propulsor. Es bastante arrogante y le gusta verse por encima de otros. Tiene una rivalidad con Jupiter por el dominio de los cielos.",
+        "phrase":"Eso no es un problema"
     },
     {
         "series": 5,
@@ -377,7 +415,8 @@ const robots = [
         "avatar": "https://tse4.mm.bing.net/th/id/OIP.RYydP17aksDLy-Ad67btYgAAAA?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",        
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/7/70/Starsprite.png",
         "weakness": "Water Wave",
-        "stageImg": ""
+        "info":"Star Man (スターマン Sutāman?, Trad. Hombre Estrella) es un Robot Master de tipo carisma de origen desconocido, y perteneciente a la serie Fifth Numbers. No fue creado por el Dr. Wily, sino que se unió a su ejército de robots por decisión propia. Todo indica que es un robot que utiliza tecnología extraterrestre. Está equipado con Star Crash, siendo capaz de disparar 3 fichas con forma de estrella que forman 1 barrera giratoria que lo protegen de cualquier ataque. En 'Mega Man 5', bajo órdenes del Dr. Wily, Star Man ocupo una Base Satelital que fue lanzada en el pasado y que se encontraba en la órbita de la Tierra. La base satelital empezaría a ser remodelada y Star Man comenzaría a trabajar como supervisor de la construcción. Últimamente le preocupa la falta de tiempo porque siempre está ocupado arreglándose para sus citas. Le gustan las cosas brillantes, disfruta de la ópera, es un robot con una personalidad romántica y una gran determinación. No le gustan los robots sin sueños. Su mayor ilusión es viajar por los confines del universo acompañada de una novia.",
+        "phrase":"¿Puedes ver la estrella de allí arriba?"
     },
     {
         "series": 5,
@@ -387,7 +426,8 @@ const robots = [
         "avatar": "https://th.bing.com/th/id/R.6880969653e418aa693e08c27157d12c?rik=q%2fRIYQ%2bSu5ssGw&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2fmegaman%2fimages%2f7%2f75%2fMM5-ChargeMan.jpg%2frevision%2flatest%3fcb%3d20110425062042&ehk=vlzb%2bm1WiD1TtLZFfBXBE%2f7AMJoYHOJbF9QfsiJGHf4%3d&risl=&pid=ImgRaw&r=0",        
         "sprite1": "http://vignette4.wikia.nocookie.net/megaman/images/1/1a/Chargesprite.png",
         "weakness": "Power Stone",
-        "stageImg": ""
+        "info":"Charge Man (チャージマン Chājiman?, Trad. Hombre Carga) es un Robot Master de tipo vehículo fabricado por el Dr. Wily, y perteneciente a la serie Fifth Numbers. Fue fabricado con el propósito original de ser usado como transporte de suministros. Debido a la falta de fondos durante su desarrollo, el carbón y agua tuvo que usarse como su fuente de energía, aún así, su potencia es superior al de otros Wily Numbers. Está equipado con Charge Kick, en caso de que necesite pelear, puede ejecutar una embestida a gran velocidad volviéndose invulnerable por un breve período de tiempo.  En 'Mega Man 5', bajo órdenes del Dr. Wily, Charge Man utilizo una serie de trenes antiguos como transporte terrestre camuflado con el fin de enviar una gran cantidad de suministros a las otras áreas tomadas de la ciudad. En 'Mega Man IV', Charge Man volvió a cooperar con el Dr. Wily, y se encargó de proteger su guarida. Charge Man tiene el 'mérito' de que su desarrollo sea el más barato entre los robots del Dr. Wily, Charge Man demuestra 50% de sarcasmo y 50% de orgullo con respecto al tema, siempre sacándolo a colación. Sin embargo, desconoce que aunque su desarrollo fue relativamente barato se gasta mucho más dinero en su combustible. Debido a que usa tecnología de antaño, cuando conversa con otros su personalidad se torna en la de un 'anciano que ha atravesado por las vicisitudes de la vida'. Es bastante centrado pero con un gran espíritu de combate, gusta de hablar de las glorias del pasado y odia que los jóvenes usen tantos katakanas.",
+        "phrase":"Se consciente de tu futuro, hijo"
     },
     {
         "series": 5,
@@ -397,7 +437,8 @@ const robots = [
         "avatar": "https://tse3.mm.bing.net/th/id/OIP.ewT9xajv0V7zypgKqxqa6gHaF-?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",        
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/a/aa/MM10WA5.png",
         "weakness": "Crystal Eye",
-        "stageImg": ""
+        "info":"Napalm Man (ナパームマン Napāmuman?, Trad. Hombre Napalm) es un Robot Master de tipo bomba fabricado por el Dr. Wily, y perteneciente a la serie Fifth Numbers. Fue fabricado con el propósito de resguardar su secreta Fábrica de Armas, que usa para el desarrollo de nuevas armas. Todo su cuerpo está exageradamente cubierto de armas pesadas, teniendo el mayor poder de fuego entre los robots de Wily. Está equipado con Napalm Bomb, 2 misiles de napalm instalados en sus brazos. Adicionalmente tiene un tercer misil montado en su cabeza, y 6 pequeños misiles rastreadores en sus hombros. Para compensar el exceso de peso por todo su arsenal, en su espalda tiene equipado un propulsor, y sumado a las 'orugas' de sus pies, le permite alcanzar grandes velocidades. En 'Mega Man 5', bajo órdenes del Dr. Wily, protege una fábrica de armas secretas, que se puede decir que es el punto central del plan de dominación mundial. En 'Mega Man IV', Napalm Man volvió a cooperar con el Dr. Wily, y se encargó de proteger su guarida.  Debido a que es considerado como un arma andante, sus compañeros prefieren alejarse de él, lo que provoca una tremenda frustración en Napalm Man causada por su falta de amigos. Aún así, se caracteriza por su compromiso a las misiones, y ser un gunji otaku por su fanatismo a las tácticas de guerra y armamento militar. Su pasatiempo es mirar alrededor de su fábrica y encontrar nuevas armas que se adapten a su cuerpo. Su sueño es establecer un museo de armas.",
+        "phrase":"¡Siente el poder de mis armas!"
     },    
     {
         "series": 5,
@@ -407,7 +448,8 @@ const robots = [
         "avatar": "https://tse4.mm.bing.net/th/id/OIP.4Ot2b-ceDrPDBtw6_fSAiAHaHd?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
         "sprite1": "http://vignette2.wikia.nocookie.net/megaman/images/c/ce/Crystalsprite.png",
         "weakness": "Gyro Attack",
-        "stageImg": ""
+        "info":"Crystal Man (クリスタルマン Kurisutaruman?, Trad. Hombre Cristal) es un Robot Master de tipo carisma fabricado por el Dr. Wily, y perteneciente a la serie Fifth Numbers. Fue fabricado con el propósito de recuperarse de sus crisis económicas. Fue construido usando cristales en bruto obtenidos de una cantera, con la esperanza de ganar una fortuna con la producción en masa de cristales artificiales. Debido a que sus articulaciones y otras zonas de su cuerpo fueron hechas a base de cristal en bruto, la dureza de su cuerpo es inclusive mayor a la de Stone Man. Está orgulloso de su apariencia, y de su configuración simple, pero tiene cierto complejo en ser más bajo que los otros robots. Está equipado con Crystal Eye, una función para generar cristales y atacar con ellos como si fueran armas. En 'Mega Man 5', bajo órdenes del Dr. Wily, Crystal Man se hizo cargo de la Mina de Cristal. En 'Mega Man IV', Crystal Man volvió a cooperar con el Dr. Wily, y se encargó de proteger su guarida. Gusta de usar bolas de cristal para la adivinación y crearse una aura de misterio, lo que genera que levanté suspicacias en otras personas. Detesta a los científicos por su afán de desmentir fenómenos paranormales, de los cuales es un gran fanático.",
+        "phrase":"Te voy a mostrar tu futuro"
     },
     {
         "series": 6,
@@ -417,7 +459,8 @@ const robots = [
         "avatar": "https://static.wikia.nocookie.net/esmegaman/images/1/10/MM6-BlizzardMan.jpg",
         "sprite1": "https://static.miraheze.org/ccbmwikiwiki/4/4f/BlizzardMan.png",
         "weakness": "Gyro Attack",
-        "stageImg": ""
+        "info":"Blizzard Man (ブリザードマン Burizādoman?, Trad. Hombre Ventisca) es un Robot Master de tipo hielo y perteneciente a la serie Sixth Numbers. Originalmente fue construido para el estudio meteorológico de la Antártida. Blizzard Man es un famoso atleta de los deportes de invierno y en el pasado ganó medallas de oro en tres eventos diferentes de los 'Juegos Olímpicos de Robots de Invierno'. Su trabajo más reciente ha sido realizar pronósticos del tiempo en televisión, donde ha demostrado su talento en la interpretación del clima. Su apariencia de muñeco de nieve lo ha hecho resaltar entre los robots de observación meteorológica, pues es un modelo atípico.  En 'Mega Man 6', Blizzard Man fue un participante del 'Primer Torneo Anual de Robots', sería reprogramado por Mr. X, y lo asistiría en su plan de conquista mundial.  Para participar en el 'Primer Torneo Anual de Robots', cambió su dispositivo de observación meteorológico en su cuerpo por Blizzard Attack, un dispositivo artificial para fabricar nieve, y se convirtió en un robot de batalla. Su Blizzard Stock que tiene en ambas manos, no sólo lo utiliza para esquiar sino también para controlar su sistema de fabricación de nieve.  Por su personalidad, Blizzard Man tiende a volverse loco y ruidoso. Le gusta esquiar, pero odia usar tablas de snowboard.",
+        "phrase":"Esto va a nevar mañana."
     },
     {
         "series":6,
@@ -427,7 +470,8 @@ const robots = [
         "avatar":"https://tse4.mm.bing.net/th/id/OIP.2f50gi9oJXLBKIld5p1waAHaI5?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
         "sprite1":"https://i.ytimg.com/vi/XSByIYtxKI8/hqdefault.jpg",
         "weakness":"Wind Storm",
-        "stageImg":""
+        "info":"Flame Man (フレイムマン Fureimuman?, Trad. Hombre Flama) es un Robot Master de tipo flama y perteneciente a la serie Sixth Numbers. Funciona con obsoleta energía térmica. En el pasado, solo Flame Man bastaba para servir de fuente de energía a un gran número de fábricas y hogares. Su desempeño supera con creces a los robots solares en términos de producción de energía y estabilidad.  En 'Mega Man 6', Flame Man fue un participante del 'Primer Torneo Anual de Robots', sería reprogramado por Mr. X, y lo asistiría en su plan de conquista mundial.  Para participar en el 'Primer Torneo Anual de Robots', cambió el funcionamiento de su sistema de generación de energía para poder disparar llamas de alta temperatura desde su cuerpo, dicho equipamiento fue denominado como Flame Blast.  Debido a que utiliza energía térmica relativamente antigua, tiene ciertos complejos con respecto al tema y también desmerece a los robots que utilizan energía solar. Debido al uso de energía térmica, es necesario que reponga su petróleo 3 veces al día, pero detesta conseguir petróleo barato. Es bastalla detallista, puntual, y disfruta de arreglarse la barba.",
+        "phrase":"Ups, momento para recargar el petróleo"
     },
     {
         "series":6,
@@ -437,7 +481,8 @@ const robots = [
         "avatar":"https://th.bing.com/th/id/R.e59219b4da28d775202c1d42d4866298?rik=%2bspffjWEGuqBKQ&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2fmegaman%2fimages%2f4%2f42%2fMM6-PlantMan.jpg%2frevision%2flatest%3fcb%3d20110427032726&ehk=EVw0pqEsCMC8J1e6IbHfDwNJduqrm%2bPiBb92%2bl6BRCw%3d&risl=&pid=ImgRaw&r=0",
         "sprite1":"https://static.wikitide.net/ccbmwikiwiki/c/c6/PlantMan.png",
         "weakness":"Flame Blase",
-        "stageImg":""
+        "info":"Plant Man (プラントマン Purantoman?, Trad. Hombre Planta) es un Robot Master de tipo animales y plantas: clase planta y perteneciente a la serie Sixth Numbers. Fue creado originalmente como la mascota de un jardín botánico. Tenía la capacidad de comunicarse con las plantas y las cuidaba junto con robots insectos. En 'Mega Man 6', Plant Man fue un participante del 'Primer Torneo Anual de Robots', sería reprogramado por Mr. X, y lo asistiría en su plan de conquista mundial. Para participar en el 'Primer Torneo Anual de Robots', usó pintura de camuflaje en su cuerpo y fue equipado con Plant Barrier. Gracias a que puede comunicarse con las plantas, no puede permitir que otros las dañen a voluntad. Debido a su habilidad especial, él mismo no puede soportar el frío. Plant Man tiene una personalidad sensible y se deprime fácilmente. Le gusta tomar el sol, pero no le gustan las abejas.",
+        "phrase":"Esta flor es muy hermosa"
     },
     {
         "series":6,
@@ -447,7 +492,8 @@ const robots = [
         "avatar":"https://th.bing.com/th/id/R.b412df7913f7896621be0d139e910f2c?rik=ANNd8EKpzhQzQw&riu=http%3a%2f%2fgonintendo.com%2fsystem%2ffile_uploads%2fuploads%2f000%2f007%2f405%2foriginal%2f51f62e33a46fa6309198c7013dd055e0.png&ehk=7UN96yk1yMaFyUmKG4y5RfSK6Im68ixAaMAiEMnxfgE%3d&risl=&pid=ImgRaw&r=0",
         "sprite1":"https://static.wikitide.net/ccbmwikiwiki/a/a3/TomahawkMan.png",
         "weakness":"Plant Barrier",
-        "stageImg":""
+        "info":"Tomahawk Man (トマホークマン Tomahōkuman?, Trad. Hombre Hacha de Guerra) es un Robot Master de tipo personificación perteneciente a la serie Sixth Numbers. Fue creado como un robot de batalla inspirado en los nativo americanos. El Silver Tomahawk en su mano derecha es muy poderoso. Puede arrojar dicha hacha y apagar una vela a 100 metros de distancia. Para compensar el punto ciego de su hacha, las plumas decorativos en su cabeza se pueden disparar como balas. Como todos sus ataques son de largo alcance, no es bueno en el combate cuerpo a cuerpo.  En 'Mega Man 6', Tomahawk Man fue un participante del 'Primer Torneo Anual de Robots', sería reprogramado por Mr. X, y lo asistiría en su plan de conquista mundial.  Tiene tanto coraje que ni siquiera le teme a la muerte, pero siente una fuerte animosidad en contra de los forasteros. Le gusta montar a caballo y odio las mentiras.",
+        "phrase":"Tomahawk Man no miente."
     },
     {
         "series":6,
@@ -457,7 +503,8 @@ const robots = [
         "avatar":"https://tse2.mm.bing.net/th/id/OIP.S9zYd0PbPA-xgYXimL7WlgHaFp?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
         "sprite1":"https://static.wikitide.net/ccbmwikiwiki/c/c1/YamatoMan.png",
         "weakness":"Silver Tomahawk",
-        "stageImg":""
+        "info":"Yamato Man (ヤマトマン Yamatoman?, trad. Hombre Yamato) es un Robot Master de tipo personificación y perteneciente a la serie Sixth Numbers. Fue creado como un robot de batalla inspirado en los samuráis japoneses. Aunque a primera vista parece parece que el cuerpo de Yamato Man es pesado, en realidad su armadura extremadamente liviana, por lo que posee una gran movilidad pero relativamente carece de poder defensivo. Su arma principal son las puntas de lanza, Yamato Spear, lanzadas por su Samurai Spear que tiene en su mano, pero debido a que la punta de lanza se agotan rápidamente, tiene que recogerlas después de disparar.  En 'Mega Man 6', Yamato Man fue un participante del 'Primer Torneo Anual de Robots', sería reprogramado por Mr. X, y lo asistiría en su plan de conquista mundial.  Yamato Man siente un gran respeto por Knight Man cuyas habilidades se complementan con las suyas. Es un robot con alma japonesa, pero es incapaz de resistir la tentación del dinero. Le gusta coleccionar espadas japonesas y odia el inglés.",
+        "phrase":"¡Nippon Banzai!"
     },
     {
         "series":6,
@@ -467,7 +514,8 @@ const robots = [
         "avatar":"https://vignette4.wikia.nocookie.net/megaman/images/7/73/MM6-KnightMan.jpg/revision/latest?cb=20110426075433",
         "sprite1":"https://static.wikitide.net/ccbmwikiwiki/5/5b/KnightMan.png",
         "weakness":"Yamato Spear",
-        "stageImg":""
+        "info":"Knight Man (ナイトマン Naitoman?, trad. Hombre Caballero) es un Robot Master de tipo personificación y perteneciente a la serie Sixth Numbers. Fue creado con propósitos de batalla y con motivos de caballero medieval, consiguiendo derrotar a más de 1000 oponentes en duelos. Knight Man está equipado con una armadura pesada, armado con su maza Knight Crusher y su indestructible escudo Knight Shield, poseyendo excelentes capacidades ofensivas y defensivas pero carece de movilidad.  En 'Mega Man 6', para cumplir su deseo de retar oponentes fuertes decide participar en el 'Primer Torneo Anual de Robots'. En dicho evento terminaría siendo reprogramado por Mr. X, y lo asistiría en su plan de conquista mundial.  Valora el espíritu de caballería y el sentido del honor, y espera batirse en duelo con sus oponentes en duelos justos. Knight Man no sabe cómo adaptarse y odia que sus oponentes utilicen métodos sucios para luchar.",
+        "phrase":"¿¡Te importaría salir afuera!?"
     },
     {
         "series":6,
@@ -477,7 +525,8 @@ const robots = [
         "avatar":"https://tse4.mm.bing.net/th/id/OIP.t4O9d-GF9ccK_9Tl5gGnlQHaIE?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
         "sprite1":"https://static.wikitide.net/ccbmwikiwiki/0/07/CentaurMan.png",
         "weakness":"Knight Crush",
-        "stageImg":""
+        "info":"Centaur Man, conocido en Japón como Centaurus Man (ケンタウロスマン Kentaurosuman?, Trad. Hombre Centauro) es un Robot Master de tipo leyenda y relato y perteneciente a la serie Sixth Numbers. Centaur Man originalmente trabajó en un antiguo museo. En la era de los robots que funcionan con energía solar, Centaur Man es un robot de estadísticas increíbles que utiliza una pila seca como fuente de energía. En 'Mega Man 6', Centaur Man decide participar en el 'Primer Torneo Anual de Robots', debido a que el museo se ha ido deteriorando últimamente por su antiguedad, él se inscribe en el campeonato con la esperanza de utilizar el premio ganador para renovar el museo. En dicho evento terminaría siendo reprogramado por Mr. X, y lo asistiría en su plan de conquista mundial.  Sus habilidades no se hicieron públicas en absoluto cuando participó en el campeonato, pero en realidad era un súper robot con la capacidad de distorsionar el espacio, lo que le permite teletransportarse. Está equipado con Centaur Flash, donde hace uso máximo de esta habilidad, pudiendo inmovilizar a su oponente.  Aunque actúa con decisión e insistencia, tiende a arrepentirse de sus acciones. Le gustan las apuestas, y odia los látigos.",
+        "phrase":"¡¡Déjate caer en las dimensiones!!"
     },
     {
         "series":6,
@@ -487,7 +536,19 @@ const robots = [
         "avatar":"https://static.wikia.nocookie.net/esmegaman/images/d/d2/MM6-WindMan.jpg",
         "sprite1":"https://static.wikitide.net/ccbmwikiwiki/9/9d/WindMan.png",
         "weakness":"Centaur Flash",
-        "stageImg":""
+        "info":"Wind Man (ウインドマン Uindoman?, Trad. Hombre Viento) es un Robot Master de tipo viento, magnetismo, gravedad y perteneciente a la serie Sixth Numbers. Fue creado originalmente como un robot agrícola que utilizaba sus hélices y motores a reacción para generar viento. Incrementando las cosechas controlando el viento sobre los sembríos. Alterna a una fuente de energía eólica cuando no está trabajando. Está equipado con Wind Storm, siendo capaz de generar fuertes vientos con una velocidad de 200 metros por minuto. Gracias a que esta equipado con pequeños propulsores jet en las plantas de sus pies, posee una gran agilidad a pesar de su enorme cuerpo.  En 'Mega Man 6', Wind Man fue un participante del 'Primer Torneo Anual de Robots', sería reprogramado por Mr. X, y lo asistiría en su plan de conquista mundial.  Debido a sus habilidades similares, es rival de Air Man. Se preocupa no poder andar en bicicleta debido a la forma de su cuerpo. Es bueno cocinando, le gustan las artes marciales y odia la medicina china.",
+        "phrase":"Yo sé Kung Fu."
+    },
+    {
+        "series":7,
+        "id":49,
+        "name":"freeze man",
+        "weapon":"freeze cracker",
+        "avatar":"https://static.wikia.nocookie.net/esmegaman/images/f/ff/Mm7freezeman.jpg",
+        "sprite1":"https://tse2.mm.bing.net/th/id/OIP.ZtygGAktBIgaqFWsxR8ZqgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "weakness":"",
+        "info":"Freeze Man (フリーズマン Furīzuman?, Trad. Hombre Congelado) es un Robot Master de Hielo de Mega Man 7. Fue construido originalmente como un prototipo de robot de energía no contaminante antes de ser modificado para el combate por el Dr. Wily. Basándose en la teoría de las temperaturas altas y bajas combinadas sean iguales a la temperatura normal, Freeze Man puede dividir la temperatura normal ambiental en temperaturas altas y bajas, usando el primero como fuente de energía y el segundo para atacar con su Freeze Cracker, y un copo de nieve como proyectil. Freeze Man es un perfeccionista y le gusta hacer poses 'cool', pero cree que los Robot Masters de tipo hielo son infravalorados con respecto a otros. Por ello, él tiene un gran respeto a Ice Man (ya que este fue el primer Robot Master de tipo hielo).",
+        "phrase":"Ven , rompamos el hielo"
     }
 ];
 
